@@ -1,5 +1,5 @@
 # InterSnap
-An access control framework and protocol for permissioned blockchain interoperations
+InterSnap is an auditable ledger snapshot technique for non-repudiable cross-blockchain communication
 
 
 
@@ -18,7 +18,7 @@ An access control framework and protocol for permissioned blockchain interoperat
 
 ## Main Software Pre-requisites
 - **Install Docker (24.0.7) :** Please refer https://docs.docker.com/engine/install/
-- **Install Hyperledger Fabric Samples (2.4.9) :** Please refer https://hyperledger-fabric.readthedocs.io/en/latest/install.html
+- **Install Hyperledger Fabric Samples (2.3 or above) :** Please refer https://hyperledger-fabric.readthedocs.io/en/latest/install.html
 - **Install Hyperledger Cacti :** Please refer https://hyperledger-cacti.github.io/cacti/weaver/getting-started/guide/  
 - **Install Go Language (1.19.6):** Please refer https://go.dev/dl/ 
 - **Install Node JS (16.20.0):** Please refer https://nodejs.org/en
@@ -50,11 +50,15 @@ An access control framework and protocol for permissioned blockchain interoperat
 If you use **InterSnap** in your academic research purposes, please cite it as follows:
 
 ```latex
-@inproceedings{InterSnap2025,
-  title={InterSnap: Access Control for Permissioned Blockchain Interoperation},
-  author={Sengupta, Tirthankar and Ghosh, Bishakh Chandra, and Chakraborty, Sandip and Sural, Shamik},
-  booktitle={Proceedings of the IEEE International Conference on Blockchain and Cryptocurrency (ICBC)},
-  publisher={IEEE},
-  year={2025}
-  }
+
+@article{InterSnap2025,
+title     = {Auditable Ledger Snapshot for Non-Repudiable Cross-Blockchain Communication},
+author    = {Sengupta, Tirthankar and Ghosh, Bishakh Chandra and Chakraborty, Sandip and Sural, Shamik},
+journal   = {IEEE Transactions on ABCD},  
+year      = {2025},
+volume    = {XX},     
+number    = {YY},      
+pages     = {ZZ-ZZ},   
+publisher = {IEEE}
+}
 
