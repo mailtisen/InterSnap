@@ -1,1 +1,0 @@
-tar cvf snapshotarchives_1_day.tar /home/user/SNAPSHOTDIR/archive_1_day
