@@ -7,7 +7,7 @@ InterSnap is an auditable ledger snapshot technique for non-repudiable cross-blo
 
 | Functions| Description | Folder Path |
 |---------------------|-------------|------------|
-| **ManageAccessContol**  | The underlying chaincode creates and manages acl and verifying access  |`src/chaincode/access_setup/ManageAccessContol.go` |
+| **InvokeSnapshot**  | The underlying module is used to create snapshot |`/home/kgpfabric1/Work_TS/Work1_Snapshot/InterSnap/src/invoke_snapshot` |
 | **SubmitAccessRequest**   | Handles access request creation, and saving of request details. | `src/chaincode/access_contol/SubmitAccessRequest.go` |
 | **ManageInteropRequest**   | Extracts and Fetches access request attributes from the interoperation payload| `src/chaincode/manage_interop_request/manage_interop_request_chaincode.go` |
 | **CheckAccessResponder**   | Checks access validation at destination | `src/chaincode/check_access_policy_dest/CheckaccessResponder.go` |

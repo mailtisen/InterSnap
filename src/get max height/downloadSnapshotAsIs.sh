@@ -15,4 +15,4 @@
 # rm -rf ${PWD}/../AWS_Snapshots/
 # #scp -i "/home/user/workspace/AWS_KeyPair_For_Latest/test3keypair.pem" ubuntu@ec2-13-232-237-74.ap-south-1.compute.amazonaws.com:/ubuntu@ubuntu@ec2-13-126-57-23.ap-south-1.compute.amazonaws.com:/home/ubuntu/ts/fabric-samples/test-network/snapshotscripts/archive/ ./AWS_Snapshots
 # exit
-scp -r -i "/home/user/workspace/AWS_KeyPair_For_Latest/test3keypair.pem" ubuntu@ec2-65-1-133-234.ap-south-1.compute.amazonaws.com:/home/ubuntu/ts/fabric-samples/test-network/AWS_Snapshots/ ./AWS_Snapshots
+scp -r -i "/home/user/workspace/AWS/keypair.pem" ubuntu@ec2-65-1-xxx-xxx.ap-south-1.compute.amazonaws.com:/home/ubuntu/workspace/fabric-samples/test-network/AWS_Snapshots/ ./AWS_Snapshots
