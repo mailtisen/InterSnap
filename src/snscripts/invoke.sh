@@ -8,7 +8,7 @@ export CORE_PEER_TLS_ROOTCERT_FILE=${PWD}/../organizations/peerOrganizations/org
 export CORE_PEER_MSPCONFIGPATH=${PWD}/../organizations/peerOrganizations/org1.example.com/users/Admin@org1.example.com/msp
 export CORE_PEER_ADDRESS=localhost:7051
 d="$(date +"%d-%m-%Y")"
-#go run /home/user/Work_TS/SnapshotWork/snapshotwork_code/copySnapshotFromPeer.go
+#go run /home/workspace/snapshotwork_code/copySnapshotFromPeer.go
 peer channel getinfo -c mychannel
 peer snapshot submitrequest -c mychannel -b 0 --peerAddress localhost:7051 --tlsRootCertFile ${PWD}/../organizations/peerOrganizations/org1.example.com/peers/peer0.org1.example.com/tls/ca.crt
 docker cp peer0.org1.example.com:/var/hyperledger/production/snapshots/completed/mychannel/ ${PWD}/archive/$d

@@ -28,7 +28,7 @@ done
 
 node ${PWD}/../../fabcar/javascript/query.js > txnlist.dat
 
-cp txnlist.dat /home/user/Work_TS/SnapshotWork/fabric-samples/test-network/snapshotscripts/archive/
+cp txnlist.dat /home/workspace/fabric-samples/test-network/snapshotscripts/archive/
 popd
 
 
