@@ -1,0 +1,1 @@
+(crontab -l ; echo "24 18 * * * /bin/sh ${PWD}/snapshotscripts/invoke.sh") | crontab -

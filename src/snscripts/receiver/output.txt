@@ -1,0 +1,538 @@
+Script started on 2023-03-03 21:08:57+0530
+]0;root@user-OptiPlex-9020: ~/Work_TS/SnapshotWork/fabric-samples/test-network/snapshotscripts/receiver[01;32mroot@user-OptiPlex-9020[00m:[01;34m~/Work_TS/SnapshotWork/fabric-samples/test-network/snapshotscripts/receiver[00m# etcd[K[K[K[K
+]0;root@user-OptiPlex-9020: ~/Work_TS/SnapshotWork/fabric-samples/test-network/snapshotscripts/receiver[01;32mroot@user-OptiPlex-9020[00m:[01;34m~/Work_TS/SnapshotWork/fabric-samples/test-network/snapshotscripts/receiver[00m# etcdOceatime ./encryptSnapshotArch.shls[Knpm run devlsof -i -P -n | grep 9090[13Pkill -9 4123lsof -i -P -n | grep 9090[14Pnpm run dev[K[K[K[K[K[K[K[K[K[K[Kcd ..
+]0;root@user-OptiPlex-9020: ~/Work_TS/SnapshotWork/fabric-samples/test-network/snapshotscripts[01;32mroot@user-OptiPlex-9020[00m:[01;34m~/Work_TS/SnapshotWork/fabric-samples/test-network/snapshotscripts[00m# time ipfs add snapshotarchives_30_days.tar.gpg[C[1P_days.tar.gpg[1P_days.tar.gpg1_days.tar.gpg[C[C[C[C[C[1P.tar.gpg
+ 129 B / 129 B [==============================================================================================================================] 100.00%[2Kadded Qme7Htj6nDphdWoknBcoTPBgZSESdhdmJZZZWrBYp7Gnr2 snapshotarchives_1_day.tar.gpg
+ 129 B / 129 B [==============================================================================================================================] 100.00%
+real	0m1.525s
+user	0m0.286s
+sys	0m0.098s
+]0;root@user-OptiPlex-9020: ~/Work_TS/SnapshotWork/fabric-samples/test-network/snapshotscripts[01;32mroot@user-OptiPlex-9020[00m:[01;34m~/Work_TS/SnapshotWork/fabric-samples/test-network/snapshotscripts[00m# time ipfs add snapshotarchives_1_day.tar.gpg
+ 129 B / ? [--------=--------------------------------------------------------------------------------------------------------------------------------] [2Kadded Qme7Htj6nDphdWoknBcoTPBgZSESdhdmJZZZWrBYp7Gnr2 snapshotarchives_1_day.tar.gpg
+ 129 B / ? [--------=--------------------------------------------------------------------------------------------------------------------------------] 
+real	0m0.137s
+user	0m0.052s
+sys	0m0.057s
+]0;root@user-OptiPlex-9020: ~/Work_TS/SnapshotWork/fabric-samples/test-network/snapshotscripts[01;32mroot@user-OptiPlex-9020[00m:[01;34m~/Work_TS/SnapshotWork/fabric-samples/test-network/snapshotscripts[00m# time ipfs add snapshotarchives_1_day.tar.gpg[1P_day.tar.gpg5_day.tar.gpg[C[C[C[Cs.tar.gpg
+ 23.97 KiB / ? [---------------------------------------------------------------------------------------------------------------=---------------------] [2Kadded QmQbqsJznQZJhxMjq7g8CyW6jqAKBVwyiGTqTb5YdQWmYy snapshotarchives_5_days.tar.gpg
+ 23.97 KiB / 23.97 KiB [======================================================================================================================] 100.00%
+real	0m0.187s
+user	0m0.120s
+sys	0m0.105s
+]0;root@user-OptiPlex-9020: ~/Work_TS/SnapshotWork/fabric-samples/test-network/snapshotscripts[01;32mroot@user-OptiPlex-9020[00m:[01;34m~/Work_TS/SnapshotWork/fabric-samples/test-network/snapshotscripts[00m# time ipfs add snapshotarchives_5_days.tar.gpg[1P_days.tar.gpg1_days.tar.gpg0_days.tar.gpg
+ 47.58 KiB / ? [--------------------------------------------------=----------------------------------------------------------------------------------] [2Kadded QmRz79svpqAR3UY8ibUzVNyVvdjtMqegV6ZEGNVsacx9dw snapshotarchives_10_days.tar.gpg
+ 47.58 KiB / ? [--------------------------------------------------=----------------------------------------------------------------------------------] 
+real	0m0.205s
+user	0m0.107s
+sys	0m0.115s
+]0;root@user-OptiPlex-9020: ~/Work_TS/SnapshotWork/fabric-samples/test-network/snapshotscripts[01;32mroot@user-OptiPlex-9020[00m:[01;34m~/Work_TS/SnapshotWork/fabric-samples/test-network/snapshotscripts[00m# time ipfs add snapshotarchives_10_days.tar.gpg[1P_days.tar.gpg[1P_days.tar.gpg3_days.tar.gpg0_days.tar.gpg
+ 142.54 KiB / 142.54 KiB [====================================================================================================================] 100.00%[2Kadded QmbFhT4TtyNWcmfCwHLbfb4vMrYYhpSkF1twpWPSjF7yfv snapshotarchives_30_days.tar.gpg
+ 142.54 KiB / 142.54 KiB [====================================================================================================================] 100.00%
+real	0m0.228s
+user	0m0.107s
+sys	0m0.151s
+]0;root@user-OptiPlex-9020: ~/Work_TS/SnapshotWork/fabric-samples/test-network/snapshotscripts[01;32mroot@user-OptiPlex-9020[00m:[01;34m~/Work_TS/SnapshotWork/fabric-samples/test-network/snapshotscripts[00m# time ipfs add snapshotarchives_30_days.tar.gpg[1P0_days.tar.gpg60_days.tar.gpg
+ 256.00 KiB / ? [-----------------------------------------------------------------------------------------------------------------------------------=]  285.37 KiB / ? [-------------------------------------------------------------------------------------------------------------------=----------------] [2Kadded QmR4fTvo6vVNFUpBTnF2mNsoTnXmQaF8r4oinLHDN7nNtB snapshotarchives_60_days.tar.gpg
+ 285.37 KiB / 285.37 KiB [====================================================================================================================] 100.00%
+real	0m0.192s
+user	0m0.100s
+sys	0m0.123s
+]0;root@user-OptiPlex-9020: ~/Work_TS/SnapshotWork/fabric-samples/test-network/snapshotscripts[01;32mroot@user-OptiPlex-9020[00m:[01;34m~/Work_TS/SnapshotWork/fabric-samples/test-network/snapshotscripts[00m# time ipfs add snapshotarchives_60_days.tar.gpg
+ 256.00 KiB / ? [-----------------------------------------------------------------------------------------------------------------------------------=]  285.37 KiB / 285.37 KiB [====================================================================================================================] 100.00%[2Kadded QmR4fTvo6vVNFUpBTnF2mNsoTnXmQaF8r4oinLHDN7nNtB snapshotarchives_60_days.tar.gpg
+ 285.37 KiB / 285.37 KiB [====================================================================================================================] 100.00%
+real	0m0.140s
+user	0m0.062s
+sys	0m0.061s
+]0;root@user-OptiPlex-9020: ~/Work_TS/SnapshotWork/fabric-samples/test-network/snapshotscripts[01;32mroot@user-OptiPlex-9020[00m:[01;34m~/Work_TS/SnapshotWork/fabric-samples/test-network/snapshotscripts[00m# tar cvf snapshotarchives_1_day.tar /home/user/SNAPSHOTDIR/arrchive_1_day[1P_day2_day0_day[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+[C[C[C[C[C[C[C[C[C[C[C[C[Cs[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C_day.tar /home/user/SNAPSHOTDIR/arc[1Phive_20_days[A]0;root@user-OptiPlex-9020: ~/Work_TS/SnapshotWork/fabric-samples/test-network/snapshotscripts[01;32mroot@user-OptiPlex-9020[00m:[01;34m~/Work_TS/SnapshotWork/fabric-samples/test-network/snapshotscripts[00m# [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C2_day.tar /home/user/SNAPSHOTDIR/archive_20_days[A]0;root@user-OptiPlex-9020: ~/Work_TS/SnapshotWork/fabric-samples/test-network/snapshotscripts[01;32mroot@user-OptiPlex-9020[00m:[01;34m~/Work_TS/SnapshotWork/fabric-samples/test-network/snapshotscripts[00m# [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C0_day.tar /home/user/SNAPSHOTDIR/archive_20_days[A]0;root@user-OptiPlex-9020: ~/Work_TS/SnapshotWork/fabric-samples/test-network/snapshotscripts[01;32mroot@user-OptiPlex-9020[00m:[01;34m~/Work_TS/SnapshotWork/fabric-samples/test-network/snapshotscripts[00m# [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cs.tar /home/user/SNAPSHOTDIR/archive_20_days[A]0;root@user-OptiPlex-9020: ~/Work_TS/SnapshotWork/fabric-samples/test-network/snapshotscripts[01;32mroot@user-OptiPlex-9020[00m:[01;34m~/Work_TS/SnapshotWork/fabric-samples/test-network/snapshotscripts[00m# [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+
+tar: Removing leading `/' from member names
+/home/user/SNAPSHOTDIR/archive_20_days/
+/home/user/SNAPSHOTDIR/archive_20_days/10-12-2022 - Copy/
+/home/user/SNAPSHOTDIR/archive_20_days/10-12-2022 - Copy/_snapshot_signable_metadata.json
+/home/user/SNAPSHOTDIR/archive_20_days/10-12-2022 - Copy/txids.metadata
+/home/user/SNAPSHOTDIR/archive_20_days/10-12-2022 - Copy/public_state.data
+/home/user/SNAPSHOTDIR/archive_20_days/10-12-2022 - Copy/txids.data
+/home/user/SNAPSHOTDIR/archive_20_days/10-12-2022 - Copy/public_state.metadata
+/home/user/SNAPSHOTDIR/archive_20_days/10-12-2022 - Copy/_snapshot_additional_metadata.json
+/home/user/SNAPSHOTDIR/archive_20_days/02-12-2022/
+/home/user/SNAPSHOTDIR/archive_20_days/02-12-2022/_snapshot_signable_metadata.json
+/home/user/SNAPSHOTDIR/archive_20_days/02-12-2022/txids.metadata
+/home/user/SNAPSHOTDIR/archive_20_days/02-12-2022/public_state.data
+/home/user/SNAPSHOTDIR/archive_20_days/02-12-2022/txids.data
+/home/user/SNAPSHOTDIR/archive_20_days/02-12-2022/public_state.metadata
+/home/user/SNAPSHOTDIR/archive_20_days/02-12-2022/_snapshot_additional_metadata.json
+/home/user/SNAPSHOTDIR/archive_20_days/05-12-2022/
+/home/user/SNAPSHOTDIR/archive_20_days/05-12-2022/_snapshot_signable_metadata.json
+/home/user/SNAPSHOTDIR/archive_20_days/05-12-2022/txids.metadata
+/home/user/SNAPSHOTDIR/archive_20_days/05-12-2022/public_state.data
+/home/user/SNAPSHOTDIR/archive_20_days/05-12-2022/txids.data
+/home/user/SNAPSHOTDIR/archive_20_days/05-12-2022/public_state.metadata
+/home/user/SNAPSHOTDIR/archive_20_days/05-12-2022/_snapshot_additional_metadata.json
+/home/user/SNAPSHOTDIR/archive_20_days/09-12-2022 - Copy (4)/
+/home/user/SNAPSHOTDIR/archive_20_days/09-12-2022 - Copy (4)/_snapshot_signable_metadata.json
+/home/user/SNAPSHOTDIR/archive_20_days/09-12-2022 - Copy (4)/txids.metadata
+/home/user/SNAPSHOTDIR/archive_20_days/09-12-2022 - Copy (4)/public_state.data
+/home/user/SNAPSHOTDIR/archive_20_days/09-12-2022 - Copy (4)/txids.data
+/home/user/SNAPSHOTDIR/archive_20_days/09-12-2022 - Copy (4)/public_state.metadata
+/home/user/SNAPSHOTDIR/archive_20_days/09-12-2022 - Copy (4)/_snapshot_additional_metadata.json
+/home/user/SNAPSHOTDIR/archive_20_days/12-12-2022 - Copy/
+/home/user/SNAPSHOTDIR/archive_20_days/12-12-2022 - Copy/_snapshot_signable_metadata.json
+/home/user/SNAPSHOTDIR/archive_20_days/12-12-2022 - Copy/txids.metadata
+/home/user/SNAPSHOTDIR/archive_20_days/12-12-2022 - Copy/public_state.data
+/home/user/SNAPSHOTDIR/archive_20_days/12-12-2022 - Copy/txids.data
+/home/user/SNAPSHOTDIR/archive_20_days/12-12-2022 - Copy/public_state.metadata
+/home/user/SNAPSHOTDIR/archive_20_days/12-12-2022 - Copy/_snapshot_additional_metadata.json
+/home/user/SNAPSHOTDIR/archive_20_days/09-12-2022 - Copy (3)/
+/home/user/SNAPSHOTDIR/archive_20_days/09-12-2022 - Copy (3)/_snapshot_signable_metadata.json
+/home/user/SNAPSHOTDIR/archive_20_days/09-12-2022 - Copy (3)/txids.metadata
+/home/user/SNAPSHOTDIR/archive_20_days/09-12-2022 - Copy (3)/public_state.data
+/home/user/SNAPSHOTDIR/archive_20_days/09-12-2022 - Copy (3)/txids.data
+/home/user/SNAPSHOTDIR/archive_20_days/09-12-2022 - Copy (3)/public_state.metadata
+/home/user/SNAPSHOTDIR/archive_20_days/09-12-2022 - Copy (3)/_snapshot_additional_metadata.json
+/home/user/SNAPSHOTDIR/archive_20_days/10-12-2022 - Copy (4)/
+/home/user/SNAPSHOTDIR/archive_20_days/10-12-2022 - Copy (4)/_snapshot_signable_metadata.json
+/home/user/SNAPSHOTDIR/archive_20_days/10-12-2022 - Copy (4)/txids.metadata
+/home/user/SNAPSHOTDIR/archive_20_days/10-12-2022 - Copy (4)/public_state.data
+/home/user/SNAPSHOTDIR/archive_20_days/10-12-2022 - Copy (4)/txids.data
+/home/user/SNAPSHOTDIR/archive_20_days/10-12-2022 - Copy (4)/public_state.metadata
+/home/user/SNAPSHOTDIR/archive_20_days/10-12-2022 - Copy (4)/_snapshot_additional_metadata.json
+/home/user/SNAPSHOTDIR/archive_20_days/12-12-2022 - Copy (2)/
+/home/user/SNAPSHOTDIR/archive_20_days/12-12-2022 - Copy (2)/_snapshot_signable_metadata.json
+/home/user/SNAPSHOTDIR/archive_20_days/12-12-2022 - Copy (2)/txids.metadata
+/home/user/SNAPSHOTDIR/archive_20_days/12-12-2022 - Copy (2)/public_state.data
+/home/user/SNAPSHOTDIR/archive_20_days/12-12-2022 - Copy (2)/txids.data
+/home/user/SNAPSHOTDIR/archive_20_days/12-12-2022 - Copy (2)/public_state.metadata
+/home/user/SNAPSHOTDIR/archive_20_days/12-12-2022 - Copy (2)/_snapshot_additional_metadata.json
+/home/user/SNAPSHOTDIR/archive_20_days/04-12-2022/
+/home/user/SNAPSHOTDIR/archive_20_days/04-12-2022/_snapshot_signable_metadata.json
+/home/user/SNAPSHOTDIR/archive_20_days/04-12-2022/txids.metadata
+/home/user/SNAPSHOTDIR/archive_20_days/04-12-2022/public_state.data
+/home/user/SNAPSHOTDIR/archive_20_days/04-12-2022/txids.data
+/home/user/SNAPSHOTDIR/archive_20_days/04-12-2022/public_state.metadata
+/home/user/SNAPSHOTDIR/archive_20_days/04-12-2022/_snapshot_additional_metadata.json
+/home/user/SNAPSHOTDIR/archive_20_days/07-12-2022/
+/home/user/SNAPSHOTDIR/archive_20_days/07-12-2022/_snapshot_signable_metadata.json
+/home/user/SNAPSHOTDIR/archive_20_days/07-12-2022/txids.metadata
+/home/user/SNAPSHOTDIR/archive_20_days/07-12-2022/public_state.data
+/home/user/SNAPSHOTDIR/archive_20_days/07-12-2022/txids.data
+/home/user/SNAPSHOTDIR/archive_20_days/07-12-2022/public_state.metadata
+/home/user/SNAPSHOTDIR/archive_20_days/07-12-2022/_snapshot_additional_metadata.json
+/home/user/SNAPSHOTDIR/archive_20_days/08-12-2022/
+/home/user/SNAPSHOTDIR/archive_20_days/08-12-2022/_snapshot_signable_metadata.json
+/home/user/SNAPSHOTDIR/archive_20_days/08-12-2022/txids.metadata
+/home/user/SNAPSHOTDIR/archive_20_days/08-12-2022/public_state.data
+/home/user/SNAPSHOTDIR/archive_20_days/08-12-2022/txids.data
+/home/user/SNAPSHOTDIR/archive_20_days/08-12-2022/public_state.metadata
+/home/user/SNAPSHOTDIR/archive_20_days/08-12-2022/_snapshot_additional_metadata.json
+/home/user/SNAPSHOTDIR/archive_20_days/09-12-2022/
+/home/user/SNAPSHOTDIR/archive_20_days/09-12-2022/_snapshot_signable_metadata.json
+/home/user/SNAPSHOTDIR/archive_20_days/09-12-2022/txids.metadata
+/home/user/SNAPSHOTDIR/archive_20_days/09-12-2022/public_state.data
+/home/user/SNAPSHOTDIR/archive_20_days/09-12-2022/txids.data
+/home/user/SNAPSHOTDIR/archive_20_days/09-12-2022/public_state.metadata
+/home/user/SNAPSHOTDIR/archive_20_days/09-12-2022/_snapshot_additional_metadata.json
+/home/user/SNAPSHOTDIR/archive_20_days/12-12-2022 - Copy (4)/
+/home/user/SNAPSHOTDIR/archive_20_days/12-12-2022 - Copy (4)/_snapshot_signable_metadata.json
+/home/user/SNAPSHOTDIR/archive_20_days/12-12-2022 - Copy (4)/txids.metadata
+/home/user/SNAPSHOTDIR/archive_20_days/12-12-2022 - Copy (4)/public_state.data
+/home/user/SNAPSHOTDIR/archive_20_days/12-12-2022 - Copy (4)/txids.data
+/home/user/SNAPSHOTDIR/archive_20_days/12-12-2022 - Copy (4)/public_state.metadata
+/home/user/SNAPSHOTDIR/archive_20_days/12-12-2022 - Copy (4)/_snapshot_additional_metadata.json
+/home/user/SNAPSHOTDIR/archive_20_days/06-12-2022/
+/home/user/SNAPSHOTDIR/archive_20_days/06-12-2022/_snapshot_signable_metadata.json
+/home/user/SNAPSHOTDIR/archive_20_days/06-12-2022/txids.metadata
+/home/user/SNAPSHOTDIR/archive_20_days/06-12-2022/public_state.data
+/home/user/SNAPSHOTDIR/archive_20_days/06-12-2022/txids.data
+/home/user/SNAPSHOTDIR/archive_20_days/06-12-2022/public_state.metadata
+/home/user/SNAPSHOTDIR/archive_20_days/06-12-2022/_snapshot_additional_metadata.json
+/home/user/SNAPSHOTDIR/archive_20_days/03-12-2022/
+/home/user/SNAPSHOTDIR/archive_20_days/03-12-2022/_snapshot_signable_metadata.json
+/home/user/SNAPSHOTDIR/archive_20_days/03-12-2022/txids.metadata
+/home/user/SNAPSHOTDIR/archive_20_days/03-12-2022/public_state.data
+/home/user/SNAPSHOTDIR/archive_20_days/03-12-2022/txids.data
+/home/user/SNAPSHOTDIR/archive_20_days/03-12-2022/public_state.metadata
+/home/user/SNAPSHOTDIR/archive_20_days/03-12-2022/_snapshot_additional_metadata.json
+/home/user/SNAPSHOTDIR/archive_20_days/10-12-2022/
+/home/user/SNAPSHOTDIR/archive_20_days/10-12-2022/_snapshot_signable_metadata.json
+/home/user/SNAPSHOTDIR/archive_20_days/10-12-2022/txids.metadata
+/home/user/SNAPSHOTDIR/archive_20_days/10-12-2022/public_state.data
+/home/user/SNAPSHOTDIR/archive_20_days/10-12-2022/txids.data
+/home/user/SNAPSHOTDIR/archive_20_days/10-12-2022/public_state.metadata
+/home/user/SNAPSHOTDIR/archive_20_days/10-12-2022/_snapshot_additional_metadata.json
+/home/user/SNAPSHOTDIR/archive_20_days/12-12-2022 - Copy (3)/
+/home/user/SNAPSHOTDIR/archive_20_days/12-12-2022 - Copy (3)/_snapshot_signable_metadata.json
+/home/user/SNAPSHOTDIR/archive_20_days/12-12-2022 - Copy (3)/txids.metadata
+/home/user/SNAPSHOTDIR/archive_20_days/12-12-2022 - Copy (3)/public_state.data
+/home/user/SNAPSHOTDIR/archive_20_days/12-12-2022 - Copy (3)/txids.data
+/home/user/SNAPSHOTDIR/archive_20_days/12-12-2022 - Copy (3)/public_state.metadata
+/home/user/SNAPSHOTDIR/archive_20_days/12-12-2022 - Copy (3)/_snapshot_additional_metadata.json
+/home/user/SNAPSHOTDIR/archive_20_days/12-12-2022/
+/home/user/SNAPSHOTDIR/archive_20_days/12-12-2022/_snapshot_signable_metadata.json
+/home/user/SNAPSHOTDIR/archive_20_days/12-12-2022/txids.metadata
+/home/user/SNAPSHOTDIR/archive_20_days/12-12-2022/public_state.data
+/home/user/SNAPSHOTDIR/archive_20_days/12-12-2022/txids.data
+/home/user/SNAPSHOTDIR/archive_20_days/12-12-2022/public_state.metadata
+/home/user/SNAPSHOTDIR/archive_20_days/12-12-2022/_snapshot_additional_metadata.json
+/home/user/SNAPSHOTDIR/archive_20_days/10-12-2022 - Copy (2)/
+/home/user/SNAPSHOTDIR/archive_20_days/10-12-2022 - Copy (2)/_snapshot_signable_metadata.json
+/home/user/SNAPSHOTDIR/archive_20_days/10-12-2022 - Copy (2)/txids.metadata
+/home/user/SNAPSHOTDIR/archive_20_days/10-12-2022 - Copy (2)/public_state.data
+/home/user/SNAPSHOTDIR/archive_20_days/10-12-2022 - Copy (2)/txids.data
+/home/user/SNAPSHOTDIR/archive_20_days/10-12-2022 - Copy (2)/public_state.metadata
+/home/user/SNAPSHOTDIR/archive_20_days/10-12-2022 - Copy (2)/_snapshot_additional_metadata.json
+/home/user/SNAPSHOTDIR/archive_20_days/10-12-2022 - Copy (3)/
+/home/user/SNAPSHOTDIR/archive_20_days/10-12-2022 - Copy (3)/_snapshot_signable_metadata.json
+/home/user/SNAPSHOTDIR/archive_20_days/10-12-2022 - Copy (3)/txids.metadata
+/home/user/SNAPSHOTDIR/archive_20_days/10-12-2022 - Copy (3)/public_state.data
+/home/user/SNAPSHOTDIR/archive_20_days/10-12-2022 - Copy (3)/txids.data
+/home/user/SNAPSHOTDIR/archive_20_days/10-12-2022 - Copy (3)/public_state.metadata
+/home/user/SNAPSHOTDIR/archive_20_days/10-12-2022 - Copy (3)/_snapshot_additional_metadata.json
+]0;root@user-OptiPlex-9020: ~/Work_TS/SnapshotWork/fabric-samples/test-network/snapshotscripts[01;32mroot@user-OptiPlex-9020[00m:[01;34m~/Work_TS/SnapshotWork/fabric-samples/test-network/snapshotscripts[00m# tar cvf snapshotarchives_20_days.tar /home/user/SNAPSHOTDIR//archive_20_days[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ctar cvf snapshotarchives_20_days.tar /home/user/SNAPSHOTDIR/archive_20_days[A]0;root@user-OptiPlex-9020: ~/Work_TS/SnapshotWork/fabric-samples/test-network/snapshotscripts[01;32mroot@user-OptiPlex-9020[00m:[01;34m~/Work_TS/SnapshotWork/fabric-samples/test-network/snapshotscripts[00m# [Citar cvf snapshotarchives_20_days.tar /home/user/SNAPSHOTDIR/archive_20_days[A]0;root@user-OptiPlex-9020: ~/Work_TS/SnapshotWork/fabric-samples/test-network/snapshotscripts[01;32mroot@user-OptiPlex-9020[00m:[01;34m~/Work_TS/SnapshotWork/fabric-samples/test-network/snapshotscripts[00m# [C[Cmtar cvf snapshotarchives_20_days.tar /home/user/SNAPSHOTDIR/archive_20_days[A]0;root@user-OptiPlex-9020: ~/Work_TS/SnapshotWork/fabric-samples/test-network/snapshotscripts[01;32mroot@user-OptiPlex-9020[00m:[01;34m~/Work_TS/SnapshotWork/fabric-samples/test-network/snapshotscripts[00m# [C[C[Cetar cvf snapshotarchives_20_days.tar /home/user/SNAPSHOTDIR/archive_20_days[A]0;root@user-OptiPlex-9020: ~/Work_TS/SnapshotWork/fabric-samples/test-network/snapshotscripts[01;32mroot@user-OptiPlex-9020[00m:[01;34m~/Work_TS/SnapshotWork/fabric-samples/test-network/snapshotscripts[00m# [C[C[C[C tar cvf snapshotarchives_20_days.tar /home/user/SNAPSHOTDIR/archive_20_days[A]0;root@user-OptiPlex-9020: ~/Work_TS/SnapshotWork/fabric-samples/test-network/snapshotscripts[01;32mroot@user-OptiPlex-9020[00m:[01;34m~/Work_TS/SnapshotWork/fabric-samples/test-network/snapshotscripts[00m# [C[C[C[C[C
+
+tar: Removing leading `/' from member names
+/home/user/SNAPSHOTDIR/archive_20_days/
+/home/user/SNAPSHOTDIR/archive_20_days/10-12-2022 - Copy/
+/home/user/SNAPSHOTDIR/archive_20_days/10-12-2022 - Copy/_snapshot_signable_metadata.json
+/home/user/SNAPSHOTDIR/archive_20_days/10-12-2022 - Copy/txids.metadata
+/home/user/SNAPSHOTDIR/archive_20_days/10-12-2022 - Copy/public_state.data
+/home/user/SNAPSHOTDIR/archive_20_days/10-12-2022 - Copy/txids.data
+/home/user/SNAPSHOTDIR/archive_20_days/10-12-2022 - Copy/public_state.metadata
+/home/user/SNAPSHOTDIR/archive_20_days/10-12-2022 - Copy/_snapshot_additional_metadata.json
+/home/user/SNAPSHOTDIR/archive_20_days/02-12-2022/
+/home/user/SNAPSHOTDIR/archive_20_days/02-12-2022/_snapshot_signable_metadata.json
+/home/user/SNAPSHOTDIR/archive_20_days/02-12-2022/txids.metadata
+/home/user/SNAPSHOTDIR/archive_20_days/02-12-2022/public_state.data
+/home/user/SNAPSHOTDIR/archive_20_days/02-12-2022/txids.data
+/home/user/SNAPSHOTDIR/archive_20_days/02-12-2022/public_state.metadata
+/home/user/SNAPSHOTDIR/archive_20_days/02-12-2022/_snapshot_additional_metadata.json
+/home/user/SNAPSHOTDIR/archive_20_days/05-12-2022/
+/home/user/SNAPSHOTDIR/archive_20_days/05-12-2022/_snapshot_signable_metadata.json
+/home/user/SNAPSHOTDIR/archive_20_days/05-12-2022/txids.metadata
+/home/user/SNAPSHOTDIR/archive_20_days/05-12-2022/public_state.data
+/home/user/SNAPSHOTDIR/archive_20_days/05-12-2022/txids.data
+/home/user/SNAPSHOTDIR/archive_20_days/05-12-2022/public_state.metadata
+/home/user/SNAPSHOTDIR/archive_20_days/05-12-2022/_snapshot_additional_metadata.json
+/home/user/SNAPSHOTDIR/archive_20_days/09-12-2022 - Copy (4)/
+/home/user/SNAPSHOTDIR/archive_20_days/09-12-2022 - Copy (4)/_snapshot_signable_metadata.json
+/home/user/SNAPSHOTDIR/archive_20_days/09-12-2022 - Copy (4)/txids.metadata
+/home/user/SNAPSHOTDIR/archive_20_days/09-12-2022 - Copy (4)/public_state.data
+/home/user/SNAPSHOTDIR/archive_20_days/09-12-2022 - Copy (4)/txids.data
+/home/user/SNAPSHOTDIR/archive_20_days/09-12-2022 - Copy (4)/public_state.metadata
+/home/user/SNAPSHOTDIR/archive_20_days/09-12-2022 - Copy (4)/_snapshot_additional_metadata.json
+/home/user/SNAPSHOTDIR/archive_20_days/12-12-2022 - Copy/
+/home/user/SNAPSHOTDIR/archive_20_days/12-12-2022 - Copy/_snapshot_signable_metadata.json
+/home/user/SNAPSHOTDIR/archive_20_days/12-12-2022 - Copy/txids.metadata
+/home/user/SNAPSHOTDIR/archive_20_days/12-12-2022 - Copy/public_state.data
+/home/user/SNAPSHOTDIR/archive_20_days/12-12-2022 - Copy/txids.data
+/home/user/SNAPSHOTDIR/archive_20_days/12-12-2022 - Copy/public_state.metadata
+/home/user/SNAPSHOTDIR/archive_20_days/12-12-2022 - Copy/_snapshot_additional_metadata.json
+/home/user/SNAPSHOTDIR/archive_20_days/09-12-2022 - Copy (3)/
+/home/user/SNAPSHOTDIR/archive_20_days/09-12-2022 - Copy (3)/_snapshot_signable_metadata.json
+/home/user/SNAPSHOTDIR/archive_20_days/09-12-2022 - Copy (3)/txids.metadata
+/home/user/SNAPSHOTDIR/archive_20_days/09-12-2022 - Copy (3)/public_state.data
+/home/user/SNAPSHOTDIR/archive_20_days/09-12-2022 - Copy (3)/txids.data
+/home/user/SNAPSHOTDIR/archive_20_days/09-12-2022 - Copy (3)/public_state.metadata
+/home/user/SNAPSHOTDIR/archive_20_days/09-12-2022 - Copy (3)/_snapshot_additional_metadata.json
+/home/user/SNAPSHOTDIR/archive_20_days/10-12-2022 - Copy (4)/
+/home/user/SNAPSHOTDIR/archive_20_days/10-12-2022 - Copy (4)/_snapshot_signable_metadata.json
+/home/user/SNAPSHOTDIR/archive_20_days/10-12-2022 - Copy (4)/txids.metadata
+/home/user/SNAPSHOTDIR/archive_20_days/10-12-2022 - Copy (4)/public_state.data
+/home/user/SNAPSHOTDIR/archive_20_days/10-12-2022 - Copy (4)/txids.data
+/home/user/SNAPSHOTDIR/archive_20_days/10-12-2022 - Copy (4)/public_state.metadata
+/home/user/SNAPSHOTDIR/archive_20_days/10-12-2022 - Copy (4)/_snapshot_additional_metadata.json
+/home/user/SNAPSHOTDIR/archive_20_days/12-12-2022 - Copy (2)/
+/home/user/SNAPSHOTDIR/archive_20_days/12-12-2022 - Copy (2)/_snapshot_signable_metadata.json
+/home/user/SNAPSHOTDIR/archive_20_days/12-12-2022 - Copy (2)/txids.metadata
+/home/user/SNAPSHOTDIR/archive_20_days/12-12-2022 - Copy (2)/public_state.data
+/home/user/SNAPSHOTDIR/archive_20_days/12-12-2022 - Copy (2)/txids.data
+/home/user/SNAPSHOTDIR/archive_20_days/12-12-2022 - Copy (2)/public_state.metadata
+/home/user/SNAPSHOTDIR/archive_20_days/12-12-2022 - Copy (2)/_snapshot_additional_metadata.json
+/home/user/SNAPSHOTDIR/archive_20_days/04-12-2022/
+/home/user/SNAPSHOTDIR/archive_20_days/04-12-2022/_snapshot_signable_metadata.json
+/home/user/SNAPSHOTDIR/archive_20_days/04-12-2022/txids.metadata
+/home/user/SNAPSHOTDIR/archive_20_days/04-12-2022/public_state.data
+/home/user/SNAPSHOTDIR/archive_20_days/04-12-2022/txids.data
+/home/user/SNAPSHOTDIR/archive_20_days/04-12-2022/public_state.metadata
+/home/user/SNAPSHOTDIR/archive_20_days/04-12-2022/_snapshot_additional_metadata.json
+/home/user/SNAPSHOTDIR/archive_20_days/07-12-2022/
+/home/user/SNAPSHOTDIR/archive_20_days/07-12-2022/_snapshot_signable_metadata.json
+/home/user/SNAPSHOTDIR/archive_20_days/07-12-2022/txids.metadata
+/home/user/SNAPSHOTDIR/archive_20_days/07-12-2022/public_state.data
+/home/user/SNAPSHOTDIR/archive_20_days/07-12-2022/txids.data
+/home/user/SNAPSHOTDIR/archive_20_days/07-12-2022/public_state.metadata
+/home/user/SNAPSHOTDIR/archive_20_days/07-12-2022/_snapshot_additional_metadata.json
+/home/user/SNAPSHOTDIR/archive_20_days/08-12-2022/
+/home/user/SNAPSHOTDIR/archive_20_days/08-12-2022/_snapshot_signable_metadata.json
+/home/user/SNAPSHOTDIR/archive_20_days/08-12-2022/txids.metadata
+/home/user/SNAPSHOTDIR/archive_20_days/08-12-2022/public_state.data
+/home/user/SNAPSHOTDIR/archive_20_days/08-12-2022/txids.data
+/home/user/SNAPSHOTDIR/archive_20_days/08-12-2022/public_state.metadata
+/home/user/SNAPSHOTDIR/archive_20_days/08-12-2022/_snapshot_additional_metadata.json
+/home/user/SNAPSHOTDIR/archive_20_days/09-12-2022/
+/home/user/SNAPSHOTDIR/archive_20_days/09-12-2022/_snapshot_signable_metadata.json
+/home/user/SNAPSHOTDIR/archive_20_days/09-12-2022/txids.metadata
+/home/user/SNAPSHOTDIR/archive_20_days/09-12-2022/public_state.data
+/home/user/SNAPSHOTDIR/archive_20_days/09-12-2022/txids.data
+/home/user/SNAPSHOTDIR/archive_20_days/09-12-2022/public_state.metadata
+/home/user/SNAPSHOTDIR/archive_20_days/09-12-2022/_snapshot_additional_metadata.json
+/home/user/SNAPSHOTDIR/archive_20_days/12-12-2022 - Copy (4)/
+/home/user/SNAPSHOTDIR/archive_20_days/12-12-2022 - Copy (4)/_snapshot_signable_metadata.json
+/home/user/SNAPSHOTDIR/archive_20_days/12-12-2022 - Copy (4)/txids.metadata
+/home/user/SNAPSHOTDIR/archive_20_days/12-12-2022 - Copy (4)/public_state.data
+/home/user/SNAPSHOTDIR/archive_20_days/12-12-2022 - Copy (4)/txids.data
+/home/user/SNAPSHOTDIR/archive_20_days/12-12-2022 - Copy (4)/public_state.metadata
+/home/user/SNAPSHOTDIR/archive_20_days/12-12-2022 - Copy (4)/_snapshot_additional_metadata.json
+/home/user/SNAPSHOTDIR/archive_20_days/06-12-2022/
+/home/user/SNAPSHOTDIR/archive_20_days/06-12-2022/_snapshot_signable_metadata.json
+/home/user/SNAPSHOTDIR/archive_20_days/06-12-2022/txids.metadata
+/home/user/SNAPSHOTDIR/archive_20_days/06-12-2022/public_state.data
+/home/user/SNAPSHOTDIR/archive_20_days/06-12-2022/txids.data
+/home/user/SNAPSHOTDIR/archive_20_days/06-12-2022/public_state.metadata
+/home/user/SNAPSHOTDIR/archive_20_days/06-12-2022/_snapshot_additional_metadata.json
+/home/user/SNAPSHOTDIR/archive_20_days/03-12-2022/
+/home/user/SNAPSHOTDIR/archive_20_days/03-12-2022/_snapshot_signable_metadata.json
+/home/user/SNAPSHOTDIR/archive_20_days/03-12-2022/txids.metadata
+/home/user/SNAPSHOTDIR/archive_20_days/03-12-2022/public_state.data
+/home/user/SNAPSHOTDIR/archive_20_days/03-12-2022/txids.data
+/home/user/SNAPSHOTDIR/archive_20_days/03-12-2022/public_state.metadata
+/home/user/SNAPSHOTDIR/archive_20_days/03-12-2022/_snapshot_additional_metadata.json
+/home/user/SNAPSHOTDIR/archive_20_days/10-12-2022/
+/home/user/SNAPSHOTDIR/archive_20_days/10-12-2022/_snapshot_signable_metadata.json
+/home/user/SNAPSHOTDIR/archive_20_days/10-12-2022/txids.metadata
+/home/user/SNAPSHOTDIR/archive_20_days/10-12-2022/public_state.data
+/home/user/SNAPSHOTDIR/archive_20_days/10-12-2022/txids.data
+/home/user/SNAPSHOTDIR/archive_20_days/10-12-2022/public_state.metadata
+/home/user/SNAPSHOTDIR/archive_20_days/10-12-2022/_snapshot_additional_metadata.json
+/home/user/SNAPSHOTDIR/archive_20_days/12-12-2022 - Copy (3)/
+/home/user/SNAPSHOTDIR/archive_20_days/12-12-2022 - Copy (3)/_snapshot_signable_metadata.json
+/home/user/SNAPSHOTDIR/archive_20_days/12-12-2022 - Copy (3)/txids.metadata
+/home/user/SNAPSHOTDIR/archive_20_days/12-12-2022 - Copy (3)/public_state.data
+/home/user/SNAPSHOTDIR/archive_20_days/12-12-2022 - Copy (3)/txids.data
+/home/user/SNAPSHOTDIR/archive_20_days/12-12-2022 - Copy (3)/public_state.metadata
+/home/user/SNAPSHOTDIR/archive_20_days/12-12-2022 - Copy (3)/_snapshot_additional_metadata.json
+/home/user/SNAPSHOTDIR/archive_20_days/12-12-2022/
+/home/user/SNAPSHOTDIR/archive_20_days/12-12-2022/_snapshot_signable_metadata.json
+/home/user/SNAPSHOTDIR/archive_20_days/12-12-2022/txids.metadata
+/home/user/SNAPSHOTDIR/archive_20_days/12-12-2022/public_state.data
+/home/user/SNAPSHOTDIR/archive_20_days/12-12-2022/txids.data
+/home/user/SNAPSHOTDIR/archive_20_days/12-12-2022/public_state.metadata
+/home/user/SNAPSHOTDIR/archive_20_days/12-12-2022/_snapshot_additional_metadata.json
+/home/user/SNAPSHOTDIR/archive_20_days/10-12-2022 - Copy (2)/
+/home/user/SNAPSHOTDIR/archive_20_days/10-12-2022 - Copy (2)/_snapshot_signable_metadata.json
+/home/user/SNAPSHOTDIR/archive_20_days/10-12-2022 - Copy (2)/txids.metadata
+/home/user/SNAPSHOTDIR/archive_20_days/10-12-2022 - Copy (2)/public_state.data
+/home/user/SNAPSHOTDIR/archive_20_days/10-12-2022 - Copy (2)/txids.data
+/home/user/SNAPSHOTDIR/archive_20_days/10-12-2022 - Copy (2)/public_state.metadata
+/home/user/SNAPSHOTDIR/archive_20_days/10-12-2022 - Copy (2)/_snapshot_additional_metadata.json
+/home/user/SNAPSHOTDIR/archive_20_days/10-12-2022 - Copy (3)/
+/home/user/SNAPSHOTDIR/archive_20_days/10-12-2022 - Copy (3)/_snapshot_signable_metadata.json
+/home/user/SNAPSHOTDIR/archive_20_days/10-12-2022 - Copy (3)/txids.metadata
+/home/user/SNAPSHOTDIR/archive_20_days/10-12-2022 - Copy (3)/public_state.data
+/home/user/SNAPSHOTDIR/archive_20_days/10-12-2022 - Copy (3)/txids.data
+/home/user/SNAPSHOTDIR/archive_20_days/10-12-2022 - Copy (3)/public_state.metadata
+/home/user/SNAPSHOTDIR/archive_20_days/10-12-2022 - Copy (3)/_snapshot_additional_metadata.json
+
+real	0m0.004s
+user	0m0.000s
+sys	0m0.004s
+]0;root@user-OptiPlex-9020: ~/Work_TS/SnapshotWork/fabric-samples/test-network/snapshotscripts[01;32mroot@user-OptiPlex-9020[00m:[01;34m~/Work_TS/SnapshotWork/fabric-samples/test-network/snapshotscripts[00m# time tar cvf snapshotarchives_20_days.tar /home/user/SNAPSHOOTDIR/archive_20_days[A]0;root@user-OptiPlex-9020: ~/Work_TS/SnapshotWork/fabric-samples/test-network/snapshotscripts[01;32mroot@user-OptiPlex-9020[00m:[01;34m~/Work_TS/SnapshotWork/fabric-samples/test-network/snapshotscripts[00m# [Car cvf snapshotarchives_20_days.tar /home/user/SNAPSHOTDIR/[5Parchive_20_days[A]0;root@user-OptiPlex-9020: ~/Work_TS/SnapshotWork/fabric-samples/test-network/snapshotscripts[01;32mroot@user-OptiPlex-9020[00m:[01;34m~/Work_TS/SnapshotWork/fabric-samples/test-network/snapshotscripts[00m# [C[13Pime ipfs add snapshotarchives_60_days.tar.gpg
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Ktime gpg --batc -c --passphrase-file pass.txt snapshotarchivves_5_days.tar[C[C[C[C[1P_days.tar[C[C[C[C1_days.tar[C[C[C[C[C0_days.tar[C[C[C[C[C[C
+gpg: WARNING: unsafe ownership on homedir '/home/user/.gnupg'
+gpg: symmetric encryption of 'snapshotarchives_10_days.tar' failed: File exists
+
+real	0m0.714s
+user	0m0.458s
+sys	0m0.000s
+]0;root@user-OptiPlex-9020: ~/Work_TS/SnapshotWork/fabric-samples/test-network/snapshotscripts[01;32mroot@user-OptiPlex-9020[00m:[01;34m~/Work_TS/SnapshotWork/fabric-samples/test-network/snapshotscripts[00m# time gpg --batc -c --passphrase-file pass.txt snapshotarchivves_10_days.tar[1P0_days.tar[C[C[C[C30_days.tar[C[C[C[C[C[1P0_days.tar[C[C[C[C20_days.tar[C[C[C[C[C
+gpg: WARNING: unsafe ownership on homedir '/home/user/.gnupg'
+
+real	0m0.536s
+user	0m0.477s
+sys	0m0.000s
+]0;root@user-OptiPlex-9020: ~/Work_TS/SnapshotWork/fabric-samples/test-network/snapshotscripts[01;32mroot@user-OptiPlex-9020[00m:[01;34m~/Work_TS/SnapshotWork/fabric-samples/test-network/snapshotscripts[00m# time gpg --batc -c --passphrase-file pass.txt snapshotarchivves_20_days.tar[C[C[C[C10_days.tar[A]0;root@user-OptiPlex-9020: ~/Work_TS/SnapshotWork/fabric-samples/test-network/snapshotscripts[01;32mroot@user-OptiPlex-9020[00m:[01;34m~/Work_TS/SnapshotWork/fabric-samples/test-network/snapshotscripts[00m# [C[C[C[C[Ctar cvf snapshotarchives_20_days.tar /home/user/SNAPSHOTDIR/archive_20_days[A]0;root@user-OptiPlex-9020: ~/Work_TS/SnapshotWork/fabric-samples/test-network/snapshotscripts[01;32mroot@user-OptiPlex-9020[00m:[01;34m~/Work_TS/SnapshotWork/fabric-samples/test-network/snapshotscripts[00m# [Car cvf snapshotarchives_20_days.tar /home/user/SNAPSHOTDIR/[5Parchive_20_days[A]0;root@user-OptiPlex-9020: ~/Work_TS/SnapshotWork/fabric-samples/test-network/snapshotscripts[01;32mroot@user-OptiPlex-9020[00m:[01;34m~/Work_TS/SnapshotWork/fabric-samples/test-network/snapshotscripts[00m# [C[13Pime ipfs add snapshotarchives_60_days.tar.gpg
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P0_days.tar.gpg20_days.tar.gpg
+ 95.09 KiB / ? [-----------------------------------------=-------------------------------------------------------------------------------------------] [2Kadded QmegiGRimmu6NNsUXDiNZM9YeHRVWLqicQBcj69dEnsFaP snapshotarchives_20_days.tar.gpg
+ 95.09 KiB / 95.09 KiB [======================================================================================================================] 100.00%
+real	0m0.455s
+user	0m0.281s
+sys	0m0.085s
+]0;root@user-OptiPlex-9020: ~/Work_TS/SnapshotWork/fabric-samples/test-network/snapshotscripts[01;32mroot@user-OptiPlex-9020[00m:[01;34m~/Work_TS/SnapshotWork/fabric-samples/test-network/snapshotscripts[00m# time ipfs add snapshotarchives_20_days.tar.gpg
+ 95.09 KiB / 95.09 KiB [======================================================================================================================] 100.00%[2Kadded QmegiGRimmu6NNsUXDiNZM9YeHRVWLqicQBcj69dEnsFaP snapshotarchives_20_days.tar.gpg
+ 95.09 KiB / 95.09 KiB [======================================================================================================================] 100.00%
+real	0m0.098s
+user	0m0.045s
+sys	0m0.068s
+]0;root@user-OptiPlex-9020: ~/Work_TS/SnapshotWork/fabric-samples/test-network/snapshotscripts[01;32mroot@user-OptiPlex-9020[00m:[01;34m~/Work_TS/SnapshotWork/fabric-samples/test-network/snapshotscripts[00m# time ipfs add snapshotarchives_20_days.tar.gpg
+ 95.09 KiB / 95.09 KiB [======================================================================================================================] 100.00%[2Kadded QmegiGRimmu6NNsUXDiNZM9YeHRVWLqicQBcj69dEnsFaP snapshotarchives_20_days.tar.gpg
+ 95.09 KiB / 95.09 KiB [======================================================================================================================] 100.00%
+real	0m0.110s
+user	0m0.041s
+sys	0m0.098s
+]0;root@user-OptiPlex-9020: ~/Work_TS/SnapshotWork/fabric-samples/test-network/snapshotscripts[01;32mroot@user-OptiPlex-9020[00m:[01;34m~/Work_TS/SnapshotWork/fabric-samples/test-network/snapshotscripts[00m# ipfs demon stop
+Error: Unknown Command "demon"
+
+Did you mean this?
+
+	daemon
+]0;root@user-OptiPlex-9020: ~/Work_TS/SnapshotWork/fabric-samples/test-network/snapshotscripts[01;32mroot@user-OptiPlex-9020[00m:[01;34m~/Work_TS/SnapshotWork/fabric-samples/test-network/snapshotscripts[00m# ipfs demon stop[1@a
+Error: expected 0 argument(s), got 1
+
+USAGE
+  ipfs daemon - Run a network-connected IPFS node.
+
+  ipfs daemon [--init] [--init-config=<init-config>] [--init-profile=<init-profile>] [--routing=<routing>] [--mount] [--writable]
+              [--mount-ipfs=<mount-ipfs>] [--mount-ipns=<mount-ipns>] [--unrestricted-api] [--disable-transport-encryption] [--enable-gc]
+              [--manage-fdlimit=false] [--migrate] [--enable-pubsub-experiment] [--enable-namesys-pubsub] [--enable-mplex-experiment]
+              [--agent-version-suffix=<agent-version-suffix>]
+
+  'ipfs daemon' runs a persistent ipfs daemon that can serve commands
+  over the network. Most applications that use IPFS will do so by
+  communicating with a daemon over the HTTP API. While the daemon is
+  running, calls to 'ipfs' commands will be sent over the network to
+  the daemon.
+
+  For more information about each command, use:
+  'ipfs daemon <subcmd> --help'
+
+
+]0;root@user-OptiPlex-9020: ~/Work_TS/SnapshotWork/fabric-samples/test-network/snapshotscripts[01;32mroot@user-OptiPlex-9020[00m:[01;34m~/Work_TS/SnapshotWork/fabric-samples/test-network/snapshotscripts[00m# ipfs
+USAGE
+  ipfs  - Global p2p merkle-dag filesystem.
+
+  ipfs [--config=<config> | -c] [--debug | -D] [--help] [-h] [--api=<api>] [--offline] [--cid-base=<base>] [--upgrade-cidv0-in-output] [--encoding=<encoding> | --enc] [--timeout=<timeout>] <command> ...
+
+SUBCOMMANDS
+  BASIC COMMANDS
+    init          Initialize local IPFS configuration
+    add <path>    Add a file to IPFS
+    cat <ref>     Show IPFS object data
+    get <ref>     Download IPFS objects
+    ls <ref>      List links from an object
+    refs <ref>    List hashes of links from an object
+  
+  DATA STRUCTURE COMMANDS
+    dag           Interact with IPLD DAG nodes
+    files         Interact with files as if they were a unix filesystem
+    block         Interact with raw blocks in the datastore
+  
+  TEXT ENCODING COMMANDS
+    cid           Convert and discover properties of CIDs
+    multibase     Encode and decode data with Multibase format
+  
+  ADVANCED COMMANDS
+    daemon        Start a long-running daemon process
+    shutdown      Shut down the daemon process
+    resolve       Resolve any type of content path
+    name          Publish and resolve IPNS names
+    key           Create and list IPNS name keypairs
+    pin           Pin objects to local storage
+    repo          Manipulate the IPFS repository
+    stats         Various operational stats
+    p2p           Libp2p stream mounting (experimental)
+    filestore     Manage the filestore (experimental)
+    mount         Mount an IPFS read-only mount point (experimental)
+  
+  NETWORK COMMANDS
+    id            Show info about IPFS peers
+    bootstrap     Add or remove bootstrap peers
+    swarm         Manage connections to the p2p network
+    dht           Query the DHT for values or peers
+    routing       Issue routing commands
+    ping          Measure the latency of a connection
+    bitswap       Inspect bitswap state
+    pubsub        Send and receive messages via pubsub
+  
+  TOOL COMMANDS
+    config        Manage configuration
+    version       Show IPFS version information
+    diag          Generate diagnostic reports
+    update        Download and apply go-ipfs updates
+    commands      List all available commands
+    log           Manage and show logs of running daemon
+  
+  Use 'ipfs <command> --help' to learn more about each command.
+  
+  ipfs uses a repository in the local file system. By default, the repo is
+  located at ~/.ipfs. To change the repo location, set the $IPFS_PATH
+  environment variable:
+  
+    export IPFS_PATH=/path/to/ipfsrepo
+  
+  EXIT STATUS
+  
+  The CLI will exit with one of the following values:
+  
+  0     Successful execution.
+  1     Failed executions.
+
+]0;root@user-OptiPlex-9020: ~/Work_TS/SnapshotWork/fabric-samples/test-network/snapshotscripts[01;32mroot@user-OptiPlex-9020[00m:[01;34m~/Work_TS/SnapshotWork/fabric-samples/test-network/snapshotscripts[00m# ipfs shutdown
+]0;root@user-OptiPlex-9020: ~/Work_TS/SnapshotWork/fabric-samples/test-network/snapshotscripts[01;32mroot@user-OptiPlex-9020[00m:[01;34m~/Work_TS/SnapshotWork/fabric-samples/test-network/snapshotscripts[00m# ipfs daemon
+Initializing daemon...
+Kubo version: 0.17.0
+Repo version: 12
+System version: amd64/linux
+Golang version: go1.19.1
+2023/03/04 12:42:39 failed to sufficiently increase receive buffer size (was: 208 kiB, wanted: 2048 kiB, got: 416 kiB). See https://github.com/lucas-clemente/quic-go/wiki/UDP-Receive-Buffer-Size for details.
+Swarm listening on /ip4/10.14.75.159/tcp/4001
+Swarm listening on /ip4/10.14.75.159/udp/4001/quic
+Swarm listening on /ip4/127.0.0.1/tcp/4001
+Swarm listening on /ip4/127.0.0.1/udp/4001/quic
+Swarm listening on /ip4/172.17.0.1/tcp/4001
+Swarm listening on /ip4/172.17.0.1/udp/4001/quic
+Swarm listening on /ip4/172.18.0.1/tcp/4001
+Swarm listening on /ip4/172.18.0.1/udp/4001/quic
+Swarm listening on /ip4/172.19.0.1/tcp/4001
+Swarm listening on /ip4/172.19.0.1/udp/4001/quic
+Swarm listening on /ip6/::1/tcp/4001
+Swarm listening on /ip6/::1/udp/4001/quic
+Swarm listening on /p2p-circuit
+Swarm announcing /ip4/10.14.75.159/tcp/4001
+Swarm announcing /ip4/10.14.75.159/udp/4001/quic
+Swarm announcing /ip4/127.0.0.1/tcp/4001
+Swarm announcing /ip4/127.0.0.1/udp/4001/quic
+Swarm announcing /ip6/::1/tcp/4001
+Swarm announcing /ip6/::1/udp/4001/quic
+API server listening on /ip4/127.0.0.1/tcp/5001
+WebUI: http://127.0.0.1:5001/webui
+Gateway (readonly) server listening on /ip4/127.0.0.1/tcp/8080
+Daemon is ready
+^C
+Received interrupt signal, shutting down...
+(Hit ctrl-c again to force-shutdown the daemon.)
+]0;root@user-OptiPlex-9020: ~/Work_TS/SnapshotWork/fabric-samples/test-network/snapshotscripts[01;32mroot@user-OptiPlex-9020[00m:[01;34m~/Work_TS/SnapshotWork/fabric-samples/test-network/snapshotscripts[00m# ^C
+]0;root@user-OptiPlex-9020: ~/Work_TS/SnapshotWork/fabric-samples/test-network/snapshotscripts[01;32mroot@user-OptiPlex-9020[00m:[01;34m~/Work_TS/SnapshotWork/fabric-samples/test-network/snapshotscripts[00m# ipfs daemonshutdown[K daemon stop[1P[C[C[C[C[C[C[C[C[Ctime ipfs add snapshotarchives_20_days.tar.gpg
+ 95.09 KiB / ? [-----------------------------------------=-------------------------------------------------------------------------------------------] [2Kadded QmegiGRimmu6NNsUXDiNZM9YeHRVWLqicQBcj69dEnsFaP snapshotarchives_20_days.tar.gpg
+ 95.09 KiB / 95.09 KiB [======================================================================================================================] 100.00%
+real	0m0.442s
+user	0m0.056s
+sys	0m0.237s
+]0;root@user-OptiPlex-9020: ~/Work_TS/SnapshotWork/fabric-samples/test-network/snapshotscripts[01;32mroot@user-OptiPlex-9020[00m:[01;34m~/Work_TS/SnapshotWork/fabric-samples/test-network/snapshotscripts[00m# 
+]0;root@user-OptiPlex-9020: ~/Work_TS/SnapshotWork/fabric-samples/test-network/snapshotscripts[01;32mroot@user-OptiPlex-9020[00m:[01;34m~/Work_TS/SnapshotWork/fabric-samples/test-network/snapshotscripts[00m# time ipfs add snapshotarchives_20_days.tar.gpg
+ 95.09 KiB / ? [-----------------------------------------=-------------------------------------------------------------------------------------------] [2Kadded QmegiGRimmu6NNsUXDiNZM9YeHRVWLqicQBcj69dEnsFaP snapshotarchives_20_days.tar.gpg
+ 95.09 KiB / 95.09 KiB [======================================================================================================================] 100.00%
+real	0m0.217s
+user	0m0.060s
+sys	0m0.168s
+]0;root@user-OptiPlex-9020: ~/Work_TS/SnapshotWork/fabric-samples/test-network/snapshotscripts[01;32mroot@user-OptiPlex-9020[00m:[01;34m~/Work_TS/SnapshotWork/fabric-samples/test-network/snapshotscripts[00m# time ipfs add snapshotarchives_20_days.tar.gpgipfs daemon[Kshutdown[K daemon stop[1P[C[C[C[C[C[C[C[C[Ctime ipfs add snapshotarchives_20_days.tar.gpggpg --batc -c --passphrase-file pass.txt snapshotarchivves_20_days.tar[C[C[C[C10_days.tar[1P_days.tar[C[C[C[C[C[1P_days.tar[C[C[C[C5_days.tar[C[C[C[C[C
+gpg: WARNING: unsafe ownership on homedir '/home/user/.gnupg'
+gpg: symmetric encryption of 'snapshotarchives_5_days.tar' failed: File exists
+
+real	0m0.511s
+user	0m0.460s
+sys	0m0.000s
+]0;root@user-OptiPlex-9020: ~/Work_TS/SnapshotWork/fabric-samples/test-network/snapshotscripts[01;32mroot@user-OptiPlex-9020[00m:[01;34m~/Work_TS/SnapshotWork/fabric-samples/test-network/snapshotscripts[00m# time gpg --batc -c --passphrase-file pass.txt snapshotarchivves_5_days.tar
+gpg: WARNING: unsafe ownership on homedir '/home/user/.gnupg'
+
+real	0m0.647s
+user	0m0.462s
+sys	0m0.000s
+]0;root@user-OptiPlex-9020: ~/Work_TS/SnapshotWork/fabric-samples/test-network/snapshotscripts[01;32mroot@user-OptiPlex-9020[00m:[01;34m~/Work_TS/SnapshotWork/fabric-samples/test-network/snapshotscripts[00m# time gpg --batc -c --passphrase-file pass.txt snapshotarchivves_5_days.tar
+gpg: WARNING: unsafe ownership on homedir '/home/user/.gnupg'
+
+real	0m0.512s
+user	0m0.510s
+sys	0m0.000s
+]0;root@user-OptiPlex-9020: ~/Work_TS/SnapshotWork/fabric-samples/test-network/snapshotscripts[01;32mroot@user-OptiPlex-9020[00m:[01;34m~/Work_TS/SnapshotWork/fabric-samples/test-network/snapshotscripts[00m# rm  snapshotarchives_5_days.tar[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Ktime gpg --batc -c --passphrase-file pass.txt snapshotarchivves_5_days.tar[A]0;root@user-OptiPlex-9020: ~/Work_TS/SnapshotWork/fabric-samples/test-network/snapshotscripts[01;32mroot@user-OptiPlex-9020[00m:[01;34m~/Work_TS/SnapshotWork/fabric-samples/test-network/snapshotscripts[00m# [C[C[C[C[C[13Pipfs add snapshotarchives_20_days.tar.gpg
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cipfs daemon[Kshutdown[K daemon stop[1P[C[C[C[C[C[C[C[C[Ctime ipfs add snapshotarchives_20_days.tar.gpggpg --batc -c --passphrase-file pass.txt snapshotarchivves_20_days.tar[C[C[C[C10_days.tar[A]0;root@user-OptiPlex-9020: ~/Work_TS/SnapshotWork/fabric-samples/test-network/snapshotscripts[01;32mroot@user-OptiPlex-9020[00m:[01;34m~/Work_TS/SnapshotWork/fabric-samples/test-network/snapshotscripts[00m# [C[C[C[C[Ctar cvf snapshotarchives_20_days.tar /home/user/SNAPSHOTDIR/archive_20_days[A]0;root@user-OptiPlex-9020: ~/Work_TS/SnapshotWork/fabric-samples/test-network/snapshotscripts[01;32mroot@user-OptiPlex-9020[00m:[01;34m~/Work_TS/SnapshotWork/fabric-samples/test-network/snapshotscripts[00m# [Car cvf snapshotarchives_20_days.tar /home/user/SNAPSHOTDIR/[5Parchive_20_days[A]0;root@user-OptiPlex-9020: ~/Work_TS/SnapshotWork/fabric-samples/test-network/snapshotscripts[01;32mroot@user-OptiPlex-9020[00m:[01;34m~/Work_TS/SnapshotWork/fabric-samples/test-network/snapshotscripts[00m# [C[13Pime ipfs add snapshotarchives_60_days.tar.gpg
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C30_days.tar.gpg10_days.tar.gpg[1P5_days.tar.gpg[1P1_day.tar.gpgcd ..[K[1PetcdOceatime ./encryptSnapshotArch.sh[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K]0;root@user-OptiPlex-9020: ~/Work_TS/SnapshotWork/fabric-samples/test-network/snapshotscripts[01;32mroot@user-OptiPlex-9020[00m:[01;34m~/Work_TS/SnapshotWork/fabric-samples/test-network/snapshotscripts[00m# [K]0;root@user-OptiPlex-9020: ~/Work_TS/SnapshotWork/fabric-samples/test-network/snapshotscripts[01;32mroot@user-OptiPlex-9020[00m:[01;34m~/Work_TS/SnapshotWork/fabric-samples/test-network/snapshotscripts[00m# [K]0;root@user-OptiPlex-9020: ~/Work_TS/SnapshotWork/fabric-samples/test-network/snapshotscripts[01;32mroot@user-OptiPlex-9020[00m:[01;34m~/Work_TS/SnapshotWork/fabric-samples/test-network/snapshotscripts[00m# [K]0;root@user-OptiPlex-9020: ~/Work_TS/SnapshotWork/fabric-samples/test-network/snapshotscripts[01;32mroot@user-OptiPlex-9020[00m:[01;34m~/Work_TS/SnapshotWork/fabric-samples/test-network/snapshotscripts[00m# [K]0;root@user-OptiPlex-9020: ~/Work_TS/SnapshotWork/fabric-samples/test-network/snapsh

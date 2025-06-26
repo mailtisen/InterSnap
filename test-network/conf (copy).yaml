@@ -1,0 +1,10 @@
+version: 0
+tlsconfig:
+  certpath: ""
+  keypath: ""
+  peercacertpath: /home/user/Work_TS/SnapshotWork/fabric-samples/test-network/organizations/peerOrganizations/org1.example.com/peers/peer0.org1.example.com/tls/ca.crt
+  timeout: 0s
+signerconfig:
+  mspid: Org1MSP
+  identitypath: /home/user/Work_TS/SnapshotWork/fabric-samples/test-network/organizations/peerOrganizations/org1.example.com/users/User1@org1.example.com/msp/signcerts/cert.pem
+  keypath: /home/user/Work_TS/SnapshotWork/fabric-samples/test-network/organizations/peerOrganizations/org1.example.com/users/User1@org1.example.com/msp/keystore/76ca7d8e0010eab5fc98e4a821fbc09e6decf21d4fc98d56e28834c474bc513c_sk
