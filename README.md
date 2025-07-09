@@ -55,22 +55,4 @@ If you use **InterSnap** in your academic research purposes, please cite it as f
 @article{InterSnap2025,
 title     = {Auditable Ledger Snapshot for Non-Repudiable Cross-Blockchain Communication},
 author    = {Sengupta, Tirthankar and Ghosh, Bishakh Chandra and Chakraborty, Sandip and Sural, Shamik},
-% journal   = {IEEE Transactions on ABCD},  
-% year      = {2025},
-% volume    = {XX},     
-% number    = {YY},      
-% pages     = {ZZ-ZZ},   
-% publisher = {IEEE}
 }
-
-% @article{InterSnap2025,
-% title     = {Auditable Ledger Snapshot for Non-Repudiable Cross-Blockchain Communication},
-% author    = {Sengupta, Tirthankar and Ghosh, Bishakh Chandra and Chakraborty, Sandip and Sural, Shamik},
-% journal   = {IEEE Transactions on ABCD},  
-% year      = {2025},
-% volume    = {XX},     
-% number    = {YY},      
-% pages     = {ZZ-ZZ},   
-% publisher = {IEEE}
-% }
-
