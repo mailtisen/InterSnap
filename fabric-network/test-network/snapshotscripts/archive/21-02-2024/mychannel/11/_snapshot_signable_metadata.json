@@ -1,0 +1,15 @@
+{
+    "channel_name": "mychannel",
+    "last_block_number": 11,
+    "last_block_hash": "d5b478a8ba8ebf5ae7a59ac73a8aae371f03d958f6694f948fd166cbbee56693",
+    "previous_block_hash": "ed1434906f1a714b6339ec8ced323ab4365f91c6a41eaa15d511dfed19c199e0",
+    "snapshot_files_raw_hashes": {
+        "private_state_hashes.data": "8f26cd2a6addfca180bda38797666c70c677e8b3725ed76c8842b8d46b74b562",
+        "private_state_hashes.metadata": "9cd6329c16f0bb27dd69a0335dc8b4bd99b41f87f705deed63137b6edc025868",
+        "public_state.data": "1bdc5d3116a055e68c285502d882d715b72ccfa8c81f6887fde03c578e828b8b",
+        "public_state.metadata": "ab2498f88e5016031ef843ada0e41c8e68b1c356491785c3080d41dea00f8b25",
+        "txids.data": "994c1a588aec4571c6afc5977b897f3a937b785968580556ba3d6cd390a097f1",
+        "txids.metadata": "6b6daa8334bbcc8f6b5906b6c04be041d92700b74024f73f50e0a9f0dae5f06f"
+    },
+    "state_db_type": "CouchDB"
+}

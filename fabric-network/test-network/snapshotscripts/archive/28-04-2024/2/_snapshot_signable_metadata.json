@@ -1,0 +1,13 @@
+{
+    "channel_name": "mychannel",
+    "last_block_number": 2,
+    "last_block_hash": "165a190f569634b5d438ad6d03587364d37eb2f1bb49f0fb397c3464c82dc3a9",
+    "previous_block_hash": "d3c8ea63714edce342ee3444fbee2ea45633f1b0324cbd8f56348e2eef0c2987",
+    "snapshot_files_raw_hashes": {
+        "public_state.data": "b0a0515e68373b2e3c230b76b6deb9acc6e53f5e47b2679a921ee564f80de38c",
+        "public_state.metadata": "252c0b6b080fa045acfcd1437f693f3be2be2ac8223ea525d492fa19ab028942",
+        "txids.data": "26cbe39af0298eac53c58624e14d0f74400c4cce8362feebe2646bf31c52c912",
+        "txids.metadata": "c79b932e1e1da3c0e098e5ad2c422937eb904a76cf61d83975a74a68fbb04b99"
+    },
+    "state_db_type": "SimpleKeyValueDB"
+}

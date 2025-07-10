@@ -1,0 +1,659 @@
+Script started on 2023-11-22 17:18:50+0530
+]0;root@kgpfabric1: /home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscriptsroot@kgpfabric1:/home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscripts# [K]0;root@kgpfabric1: /home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscriptsroot@kgpfabric1:/home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscripts# [K]0;root@kgpfabric1: /home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscriptsroot@kgpfabric1:/home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscripts# exittime gpg --batc -c --passsphrase-file pass.txt snapshotarchives_height100.tar[A]0;root@kgpfabric1: /home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscriptsroot@kgpfabric1:/home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscripts# [15Prm *.gpg
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ctime gpg --batc -c --passsphrase-file pass.txt snapshotarchives_height100.tar[A]0;root@kgpfabric1: /home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscriptsroot@kgpfabric1:/home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscripts# [15Prm *.gpg
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ctime gpg --batc -c --passsphrase-file pass.txt snapshotarchives_height100.tar[A]0;root@kgpfabric1: /home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscriptsroot@kgpfabric1:/home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscripts# [15Prm *.gpg
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ctime gpg --batc -c --passsphrase-file pass.txt snapshotarchives_height100.tar[A]0;root@kgpfabric1: /home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscriptsroot@kgpfabric1:/home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscripts# [15Prm *.gpg
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ctime gpg --batc -c --passsphrase-file pass.txt snapshotarchives_height100.tar[A]0;root@kgpfabric1: /home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscriptsroot@kgpfabric1:/home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscripts# exit[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Kexittime gpg --batc -c --passsphrase-file pass.txt snapshotarchives_height100.tar[A]0;root@kgpfabric1: /home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscriptsroot@kgpfabric1:/home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscripts# [15Prm *.gpg
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ctime gpg --batc -c --passsphrase-file pass.txt snapshotarchives_height100.tar[A]0;root@kgpfabric1: /home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscriptsroot@kgpfabric1:/home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscripts# [15Prm *.gpg
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ctime gpg --batc -c --passsphrase-file pass.txt snapshotarchives_height100.tar[A]0;root@kgpfabric1: /home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscriptsroot@kgpfabric1:/home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscripts# [15Prm *.gpg
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ctime gpg --batc -c --passsphrase-file pass.txt snapshotarchives_height100.tar[A]0;root@kgpfabric1: /home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscriptsroot@kgpfabric1:/home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscripts# [15Prm *.gpg
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ctime gpg --batc -c --passsphrase-file pass.txt snapshotarchives_height100.tar[A]0;root@kgpfabric1: /home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscriptsroot@kgpfabric1:/home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscripts# [15Prm *.gpg
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K[K[K[K[K[K[Ktime ./invoke.sh
+[34m2023-11-22 18:49:26.464 IST 0001 INFO[0m [channelCmd] [34;1mInitCmdFactory[0m -> Endorser and orderer connections initialized
+999
+Snapshot request submitted successfully
+
+real	0m1.080s
+user	0m0.094s
+sys	0m0.049s
+]0;root@kgpfabric1: /home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscriptsroot@kgpfabric1:/home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscripts# time ./invoke.sh
+[34m2023-11-22 18:51:42.214 IST 0001 INFO[0m [channelCmd] [34;1mInitCmdFactory[0m -> Endorser and orderer connections initialized
+0
+Error: failed to submit the request: rpc error: code = Unknown desc = snapshot already generated for block number 1116
+
+real	0m0.261s
+user	0m0.089s
+sys	0m0.046s
+]0;root@kgpfabric1: /home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscriptsroot@kgpfabric1:/home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscripts# time ./invoke.sh
+[34m2023-11-22 18:54:27.778 IST 0001 INFO[0m [channelCmd] [34;1mInitCmdFactory[0m -> Endorser and orderer connections initialized
+0
+Snapshot request submitted successfully
+
+real	0m0.294s
+user	0m0.100s
+sys	0m0.026s
+]0;root@kgpfabric1: /home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscriptsroot@kgpfabric1:/home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscripts# time ./invoke.sh
+[34m2023-11-22 18:54:56.319 IST 0001 INFO[0m [channelCmd] [34;1mInitCmdFactory[0m -> Endorser and orderer connections initialized
+0
+Error: failed to submit the request: rpc error: code = Unknown desc = snapshot already generated for block number 1116
+
+real	0m0.217s
+user	0m0.094s
+sys	0m0.034s
+]0;root@kgpfabric1: /home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscriptsroot@kgpfabric1:/home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscripts# time ./invoke.sh
+[34m2023-11-22 19:01:38.820 IST 0001 INFO[0m [channelCmd] [34;1mInitCmdFactory[0m -> Endorser and orderer connections initialized
+0
+Error: failed to submit the request: rpc error: code = Unknown desc = snapshot already generated for block number 1116
+
+real	0m0.201s
+user	0m0.094s
+sys	0m0.031s
+]0;root@kgpfabric1: /home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscriptsroot@kgpfabric1:/home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscripts# time ./invoke.sh
+[34m2023-11-22 19:02:05.268 IST 0001 INFO[0m [channelCmd] [34;1mInitCmdFactory[0m -> Endorser and orderer connections initialized
+0
+Snapshot request submitted successfully
+
+real	0m0.289s
+user	0m0.099s
+sys	0m0.023s
+]0;root@kgpfabric1: /home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscriptsroot@kgpfabric1:/home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscripts# time ./invoke.sh
+[34m2023-11-22 19:02:55.505 IST 0001 INFO[0m [channelCmd] [34;1mInitCmdFactory[0m -> Endorser and orderer connections initialized
+0
+Snapshot request submitted successfully
+
+real	0m0.309s
+user	0m0.091s
+sys	0m0.039s
+]0;root@kgpfabric1: /home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscriptsroot@kgpfabric1:/home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscripts# time ./invoke.sh
+[34m2023-11-22 19:04:03.847 IST 0001 INFO[0m [channelCmd] [34;1mInitCmdFactory[0m -> Endorser and orderer connections initialized
+0
+Error: failed to submit the request: rpc error: code = Unknown desc = snapshot already generated for block number 1116
+
+real	0m0.227s
+user	0m0.112s
+sys	0m0.016s
+]0;root@kgpfabric1: /home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscriptsroot@kgpfabric1:/home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscripts# time ./invoke.sh
+[34m2023-11-22 19:04:06.694 IST 0001 INFO[0m [channelCmd] [34;1mInitCmdFactory[0m -> Endorser and orderer connections initialized
+0
+Error: failed to submit the request: rpc error: code = Unknown desc = snapshot already generated for block number 1116
+
+real	0m0.248s
+user	0m0.108s
+sys	0m0.029s
+]0;root@kgpfabric1: /home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscriptsroot@kgpfabric1:/home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscripts# time ./invoke.sh
+[34m2023-11-22 19:04:08.920 IST 0001 INFO[0m [channelCmd] [34;1mInitCmdFactory[0m -> Endorser and orderer connections initialized
+0
+Error: failed to submit the request: rpc error: code = Unknown desc = snapshot already generated for block number 1116
+
+real	0m0.198s
+user	0m0.092s
+sys	0m0.032s
+]0;root@kgpfabric1: /home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscriptsroot@kgpfabric1:/home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscripts# 
+]0;root@kgpfabric1: /home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscriptsroot@kgpfabric1:/home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscripts# time ./invoke.sh
+[34m2023-11-22 19:04:11.427 IST 0001 INFO[0m [channelCmd] [34;1mInitCmdFactory[0m -> Endorser and orderer connections initialized
+0
+Error: failed to submit the request: rpc error: code = Unknown desc = snapshot already generated for block number 1116
+
+real	0m0.210s
+user	0m0.087s
+sys	0m0.038s
+]0;root@kgpfabric1: /home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscriptsroot@kgpfabric1:/home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscripts# time ./invoke.sh
+[34m2023-11-22 19:04:14.224 IST 0001 INFO[0m [channelCmd] [34;1mInitCmdFactory[0m -> Endorser and orderer connections initialized
+0
+Error: failed to submit the request: rpc error: code = Unknown desc = snapshot already generated for block number 1116
+
+real	0m0.179s
+user	0m0.075s
+sys	0m0.050s
+]0;root@kgpfabric1: /home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscriptsroot@kgpfabric1:/home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscripts# time ./invoke.sh
+[34m2023-11-22 19:05:28.173 IST 0001 INFO[0m [channelCmd] [34;1mInitCmdFactory[0m -> Endorser and orderer connections initialized
+0
+Error: failed to submit the request: rpc error: code = Unknown desc = snapshot already generated for block number 1116
+./invoke.sh: line 26: ddocker: command not found
+
+real	0m0.255s
+user	0m0.092s
+sys	0m0.030s
+]0;root@kgpfabric1: /home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscriptsroot@kgpfabric1:/home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscripts# time ./invoke.sh
+[34m2023-11-22 19:06:23.781 IST 0001 INFO[0m [channelCmd] [34;1mInitCmdFactory[0m -> Endorser and orderer connections initialized
+0
+Error: failed to submit the request: rpc error: code = Unknown desc = snapshot already generated for block number 1116
+unknown shorthand flag: 'r' in -rf
+See 'docker rm --help'.
+
+real	0m0.301s
+user	0m0.106s
+sys	0m0.043s
+]0;root@kgpfabric1: /home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscriptsroot@kgpfabric1:/home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscripts# time ./invoke.sh
+[34m2023-11-22 19:06:52.947 IST 0001 INFO[0m [channelCmd] [34;1mInitCmdFactory[0m -> Endorser and orderer connections initialized
+0
+Error: failed to submit the request: rpc error: code = Unknown desc = snapshot already generated for block number 1116
+
+real	0m0.252s
+user	0m0.109s
+sys	0m0.030s
+]0;root@kgpfabric1: /home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscriptsroot@kgpfabric1:/home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscripts# time ./invoke.sh
+[34m2023-11-22 19:07:33.631 IST 0001 INFO[0m [channelCmd] [34;1mInitCmdFactory[0m -> Endorser and orderer connections initialized
+0
+Error: failed to submit the request: rpc error: code = Unknown desc = snapshot already generated for block number 1116
+unknown shorthand flag: 'r' in -rf
+See 'docker rm --help'.
+
+real	0m0.259s
+user	0m0.092s
+sys	0m0.054s
+]0;root@kgpfabric1: /home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscriptsroot@kgpfabric1:/home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscripts# time ./invoke.sh
+[34m2023-11-22 19:10:28.616 IST 0001 INFO[0m [channelCmd] [34;1mInitCmdFactory[0m -> Endorser and orderer connections initialized
+0
+Snapshot request submitted successfully
+
+real	0m0.462s
+user	0m0.103s
+sys	0m0.027s
+]0;root@kgpfabric1: /home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscriptsroot@kgpfabric1:/home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscripts# time ./invoke.sh
+[34m2023-11-22 19:11:13.804 IST 0001 INFO[0m [channelCmd] [34;1mInitCmdFactory[0m -> Endorser and orderer connections initialized
+0
+Snapshot request submitted successfully
+
+real	0m0.422s
+user	0m0.094s
+sys	0m0.030s
+]0;root@kgpfabric1: /home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscriptsroot@kgpfabric1:/home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscripts# time ./invoke.sh
+[34m2023-11-22 19:11:44.209 IST 0001 INFO[0m [channelCmd] [34;1mInitCmdFactory[0m -> Endorser and orderer connections initialized
+0
+Snapshot request submitted successfully
+
+real	0m0.431s
+user	0m0.107s
+sys	0m0.015s
+]0;root@kgpfabric1: /home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscriptsroot@kgpfabric1:/home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscripts# time ./invoke.sh
+[34m2023-11-22 19:12:20.473 IST 0001 INFO[0m [channelCmd] [34;1mInitCmdFactory[0m -> Endorser and orderer connections initialized
+0
+Snapshot request submitted successfully
+
+real	0m0.453s
+user	0m0.095s
+sys	0m0.036s
+]0;root@kgpfabric1: /home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscriptsroot@kgpfabric1:/home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscripts# time ./invoke.sh
+[34m2023-11-22 19:12:49.490 IST 0001 INFO[0m [channelCmd] [34;1mInitCmdFactory[0m -> Endorser and orderer connections initialized
+0
+Snapshot request submitted successfully
+
+real	0m0.488s
+user	0m0.078s
+sys	0m0.051s
+]0;root@kgpfabric1: /home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscriptsroot@kgpfabric1:/home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscripts# time ./invoke.shexit[K[K[K[K[Ksh [K[K[Ktime gpg --batc -c --passsphrase-file pass.txt snapshotarchives_height100.tar[A]0;root@kgpfabric1: /home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscriptsroot@kgpfabric1:/home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscripts# [15Prm *.gpg
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K[K[K[K[K[K[K./inc[Kvoke.sh
+[34m2023-11-23 00:01:38.396 IST 0001 INFO[0m [channelCmd] [34;1mInitCmdFactory[0m -> Endorser and orderer connections initialized
+199
+./invoke.sh: line 25: /var/hyperledger/production/snapshots/completed/mychannel: No such file or directory
+]0;root@kgpfabric1: /home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscriptsroot@kgpfabric1:/home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscripts# ./invoke.sh
+[34m2023-11-23 00:02:10.764 IST 0001 INFO[0m [channelCmd] [34;1mInitCmdFactory[0m -> Endorser and orderer connections initialized
+0
+./invoke.sh: line 25: cd: /var/hyperledger/production/snapshots/completed/mychannel: No such file or directory
+]0;root@kgpfabric1: /home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscriptsroot@kgpfabric1:/home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscripts# ./invoke.sh
+[34m2023-11-23 00:03:06.430 IST 0001 INFO[0m [channelCmd] [34;1mInitCmdFactory[0m -> Endorser and orderer connections initialized
+0
+"docker exec" requires at least 2 arguments.
+See 'docker exec --help'.
+
+Usage:  docker exec [OPTIONS] CONTAINER COMMAND [ARG...]
+
+Run a command in a running container
+]0;root@kgpfabric1: /home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscriptsroot@kgpfabric1:/home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscripts# ./invoke.sh
+[34m2023-11-23 00:03:49.609 IST 0001 INFO[0m [channelCmd] [34;1mInitCmdFactory[0m -> Endorser and orderer connections initialized
+0
+]0;root@kgpfabric1: /home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscriptsroot@kgpfabric1:/home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscripts# ./invoke.sh
+[34m2023-11-23 00:09:14.000 IST 0001 INFO[0m [channelCmd] [34;1mInitCmdFactory[0m -> Endorser and orderer connections initialized
+0
+]0;root@kgpfabric1: /home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscriptsroot@kgpfabric1:/home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscripts# ./invoke.sh
+[34m2023-11-23 00:09:31.949 IST 0001 INFO[0m [channelCmd] [34;1mInitCmdFactory[0m -> Endorser and orderer connections initialized
+0
+Error response from daemon: OCI runtime exec failed: exec failed: unable to start container process: exec: "cd": executable file not found in $PATH: unknown
+]0;root@kgpfabric1: /home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscriptsroot@kgpfabric1:/home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscripts# ./invoke.sh
+[34m2023-11-23 00:12:40.463 IST 0001 INFO[0m [channelCmd] [34;1mInitCmdFactory[0m -> Endorser and orderer connections initialized
+0
+Snapshot request submitted successfully
+unknown shorthand flag: 'r' in -rf
+See 'docker rm --help'.
+]0;root@kgpfabric1: /home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscriptsroot@kgpfabric1:/home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscripts# ./invoke.sh
+[34m2023-11-23 00:13:03.495 IST 0001 INFO[0m [channelCmd] [34;1mInitCmdFactory[0m -> Endorser and orderer connections initialized
+0
+Error: failed to submit the request: rpc error: code = Unknown desc = snapshot already generated for block number 1315
+Error: No such container: peer0.org1.example.com:/var/hyperledger/production/snapshots/completed/mychannel
+]0;root@kgpfabric1: /home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscriptsroot@kgpfabric1:/home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscripts# ./invoke.sh
+[34m2023-11-23 00:14:48.176 IST 0001 INFO[0m [channelCmd] [34;1mInitCmdFactory[0m -> Endorser and orderer connections initialized
+0
+Error: No such container: peer0.org1.example.com:/var/hyperledger/production/snapshots/completed/mychannel
+]0;root@kgpfabric1: /home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscriptsroot@kgpfabric1:/home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscripts# ./invoke.sh
+[34m2023-11-23 00:17:55.376 IST 0001 INFO[0m [channelCmd] [34;1mInitCmdFactory[0m -> Endorser and orderer connections initialized
+0
+Error: No such container: peer0.org1.example.com:/var/hyperledger/production/snapshots/completed/mychannel
+]0;root@kgpfabric1: /home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscriptsroot@kgpfabric1:/home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscripts# ./invoke.sh
+[34m2023-11-23 00:18:17.843 IST 0001 INFO[0m [channelCmd] [34;1mInitCmdFactory[0m -> Endorser and orderer connections initialized
+0
+unknown shorthand flag: 'r' in -rf
+See 'docker rm --help'.
+]0;root@kgpfabric1: /home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscriptsroot@kgpfabric1:/home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscripts# ./invoke.sh
+[34m2023-11-23 00:19:24.382 IST 0001 INFO[0m [channelCmd] [34;1mInitCmdFactory[0m -> Endorser and orderer connections initialized
+0
+]0;root@kgpfabric1: /home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscriptsroot@kgpfabric1:/home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscripts# clear
+[3J[H[2J]0;root@kgpfabric1: /home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscriptsroot@kgpfabric1:/home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscripts# clear./invoke.sh
+[34m2023-11-23 00:20:59.502 IST 0001 INFO[0m [channelCmd] [34;1mInitCmdFactory[0m -> Endorser and orderer connections initialized
+0
+Snapshot request submitted successfully
+Error: No such container:path: peer0.org1.example.com:/var/hyperledger/production/snapshots/completed/mychannel/
+]0;root@kgpfabric1: /home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscriptsroot@kgpfabric1:/home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscripts# ./invoke.sh
+[34m2023-11-23 00:27:26.973 IST 0001 INFO[0m [channelCmd] [34;1mInitCmdFactory[0m -> Endorser and orderer connections initialized
+0
+Snapshot request submitted successfully
+Error: No such container:path: peer0.org1.example.com:/var/hyperledger/production/snapshots/completed/mychannel/
+]0;root@kgpfabric1: /home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscriptsroot@kgpfabric1:/home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscripts# ./invoke.sh
+[34m2023-11-23 00:29:38.975 IST 0001 INFO[0m [channelCmd] [34;1mInitCmdFactory[0m -> Endorser and orderer connections initialized
+0
+Snapshot request submitted successfully
+]0;root@kgpfabric1: /home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscriptsroot@kgpfabric1:/home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscripts# ls
+ [0m[01;32m2[0m                    [01;32mencryptSnapshotArch.sh[0m         [01;32minvoke.sh[0m                    [01;32mmovearchive.sh[0m
+ [01;32mcat[0m                  [01;32mfilead120.txt[0m                  [01;32mloadsnapshottxn.sh[0m           [01;32mpass.txt[0m
+ [01;32mCAT[0m                  [01;32mgetdiscoveryMaxPeerHeight.sh[0m   loadtestsnapshotarchive.sh   [01;32mscheduleSnapshot.sh[0m
+ [01;32mcompressArchive.sh[0m   initiateInterop                logoutputvscode.txt          [01;32msnapheight.txt[0m
+ [01;32mconf.yaml[0m           [01;32m'invoke (copy).sh'[0m              [01;32mmanageipfs.sh[0m                [01;34mwallet[0m
+]0;root@kgpfabric1: /home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscriptsroot@kgpfabric1:/home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscripts# chmod 777 -R [K[K[K[K loadtestsnapshhotarchive.sh
+]0;root@kgpfabric1: /home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscriptsroot@kgpfabric1:/home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscripts# chmod 777 loadtestsnapshhotarchive.sh[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cloadtestsnapsho[1Ptarchive.sh[A]0;root@kgpfabric1: /home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscriptsroot@kgpfabric1:/home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscripts# [C[C[C[C[C[C[C[C[Cloadtestsnapshot[1Parchive.sh[A]0;root@kgpfabric1: /home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscriptsroot@kgpfabric1:/home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscripts# [C[C[C[C[C[C[C[Cloadtestsnapshota[1Prchive.sh[A]0;root@kgpfabric1: /home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscriptsroot@kgpfabric1:/home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscripts# [C[C[C[C[C[C[Cloadtestsnapshotar[1Pchive.sh[A]0;root@kgpfabric1: /home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscriptsroot@kgpfabric1:/home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscripts# [C[C[C[C[C[Cloadtestsnapshotarc[1Phive.sh[A]0;root@kgpfabric1: /home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscriptsroot@kgpfabric1:/home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscripts# [C[C[C[C[Cloadtestsnapshotarch[1Pive.sh[A]0;root@kgpfabric1: /home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscriptsroot@kgpfabric1:/home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscripts# [C[C[C[Cloadtestsnapshotarchi[1Pve.sh[A]0;root@kgpfabric1: /home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscriptsroot@kgpfabric1:/home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscripts# [C[C[Cloadtestsnapshotarchiv[1Pe.sh[A]0;root@kgpfabric1: /home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscriptsroot@kgpfabric1:/home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscripts# [C[Cloadtestsnapshotarchive[1P.sh[A]0;root@kgpfabric1: /home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscriptsroot@kgpfabric1:/home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscripts# [Cloadtestsnapshotarchive.[1Psh[A]0;root@kgpfabric1: /home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscriptsroot@kgpfabric1:/home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscripts# .loadtestsnapshotarchive.sh[A]0;root@kgpfabric1: /home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscriptsroot@kgpfabric1:/home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscripts# [C/loadtestsnapshotarchive.sh[A]0;root@kgpfabric1: /home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscriptsroot@kgpfabric1:/home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscripts# [C[C
+
+./loadtestsnapshotarchive.sh: line 3: syntax error near unexpected token `('
+./loadtestsnapshotarchive.sh: line 3: `for (int i=0;i<10;;i++)'
+]0;root@kgpfabric1: /home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscriptsroot@kgpfabric1:/home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscripts# ./loadtestsnapshotarchivve.sh
+./loadtestsnapshotarchive.sh: line 2: syntax error near unexpected token `('
+./loadtestsnapshotarchive.sh: line 2: `for (int i=0;i<10;;i++)'
+]0;root@kgpfabric1: /home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscriptsroot@kgpfabric1:/home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscripts# ./loadtestsnapshotarchivve.sh
+[34m2023-11-23 00:43:02.436 IST 0001 INFO[0m [channelCmd] [34;1mInitCmdFactory[0m -> Endorser and orderer connections initialized
+Error: failed to submit the request: rpc error: code = Unknown desc = snapshot already generated for block number 1315
+
+real	0m0.308s
+user	0m0.098s
+sys	0m0.032s
+[34m2023-11-23 00:43:02.779 IST 0001 INFO[0m [channelCmd] [34;1mInitCmdFactory[0m -> Endorser and orderer connections initialized
+Error: failed to submit the request: rpc error: code = Unknown desc = snapshot already generated for block number 1315
+
+real	0m0.362s
+user	0m0.103s
+sys	0m0.033s
+[34m2023-11-23 00:43:03.149 IST 0001 INFO[0m [channelCmd] [34;1mInitCmdFactory[0m -> Endorser and orderer connections initialized
+Error: failed to submit the request: rpc error: code = Unknown desc = snapshot already generated for block number 1315
+
+real	0m0.385s
+user	0m0.135s
+sys	0m0.015s
+[34m2023-11-23 00:43:03.551 IST 0001 INFO[0m [channelCmd] [34;1mInitCmdFactory[0m -> Endorser and orderer connections initialized
+Error: failed to submit the request: rpc error: code = Unknown desc = snapshot already generated for block number 1315
+
+real	0m0.414s
+user	0m0.100s
+sys	0m0.046s
+]0;root@kgpfabric1: /home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscriptsroot@kgpfabric1:/home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscripts# ./loadtestsnapshotarchivve.sh
+]0;root@kgpfabric1: /home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscriptsroot@kgpfabric1:/home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscripts# ./loadtestsnapshotarchivve.sh
+]0;root@kgpfabric1: /home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscriptsroot@kgpfabric1:/home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscripts# ./loadtestsnapshotarchivve.sh
+]0;root@kgpfabric1: /home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscriptsroot@kgpfabric1:/home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscripts# ./loadtestsnapshotarchivve.sh
+[34m2023-11-23 00:50:39.750 IST 0001 INFO[0m [channelCmd] [34;1mInitCmdFactory[0m -> Endorser and orderer connections initialized
+invoke.sh: 15: invoke.sh: typeset: not found
+invoke.sh: 17: invoke.sh: typeset: not found
+invoke.sh: 19: invoke.sh: arithmetic expression: expecting primary: " - "
+[34m2023-11-23 00:50:39.818 IST 0001 INFO[0m [channelCmd] [34;1mInitCmdFactory[0m -> Endorser and orderer connections initialized
+invoke.sh: 15: invoke.sh: typeset: not found
+invoke.sh: 17: invoke.sh: typeset: not found
+invoke.sh: 19: invoke.sh: arithmetic expression: expecting primary: " - "
+]0;root@kgpfabric1: /home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscriptsroot@kgpfabric1:/home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscripts# ./loadtestsnapshotarchivve.sh
+[34m2023-11-23 00:51:00.681 IST 0001 INFO[0m [channelCmd] [34;1mInitCmdFactory[0m -> Endorser and orderer connections initialized
+Error: failed to submit the request: rpc error: code = Unknown desc = snapshot already generated for block number 1315
+[34m2023-11-23 00:51:01.140 IST 0001 INFO[0m [channelCmd] [34;1mInitCmdFactory[0m -> Endorser and orderer connections initialized
+Error: failed to submit the request: rpc error: code = Unknown desc = snapshot already generated for block number 1315
+]0;root@kgpfabric1: /home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscriptsroot@kgpfabric1:/home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscripts# ./loadtestsnapshotarchivve.sh[A]0;root@kgpfabric1: /home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscriptsroot@kgpfabric1:/home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscripts# chmod 777 loadtestsnapshotarchive.sh[A]0;root@kgpfabric1: /home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscriptsroot@kgpfabric1:/home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscripts# ls[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C./invoke.sh
+[34m2023-11-23 00:51:23.204 IST 0001 INFO[0m [channelCmd] [34;1mInitCmdFactory[0m -> Endorser and orderer connections initialized
+0
+Error: failed to submit the request: rpc error: code = Unknown desc = snapshot already generated for block number 1315
+]0;root@kgpfabric1: /home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscriptsroot@kgpfabric1:/home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscripts# ./invoke.sh
+[34m2023-11-23 00:52:00.182 IST 0001 INFO[0m [channelCmd] [34;1mInitCmdFactory[0m -> Endorser and orderer connections initialized
+0
+Snapshot request submitted successfully
+Error: No such container:path: peer0.org1.example.com:/var/hyperledger/production/snapshots/completed/mychannel/
+]0;root@kgpfabric1: /home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscriptsroot@kgpfabric1:/home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscripts# ./invoke.sh
+[34m2023-11-23 00:52:03.532 IST 0001 INFO[0m [channelCmd] [34;1mInitCmdFactory[0m -> Endorser and orderer connections initialized
+0
+Snapshot request submitted successfully
+Error: No such container:path: peer0.org1.example.com:/var/hyperledger/production/snapshots/completed/mychannel/
+]0;root@kgpfabric1: /home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscriptsroot@kgpfabric1:/home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscripts# ./invoke.sh
+[34m2023-11-23 00:52:15.315 IST 0001 INFO[0m [channelCmd] [34;1mInitCmdFactory[0m -> Endorser and orderer connections initialized
+0
+Snapshot request submitted successfully
+Error: No such container:path: peer0.org1.example.com:/var/hyperledger/production/snapshots/completed/mychannel/
+]0;root@kgpfabric1: /home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscriptsroot@kgpfabric1:/home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscripts# ./invoke.sh
+[34m2023-11-23 00:52:19.758 IST 0001 INFO[0m [channelCmd] [34;1mInitCmdFactory[0m -> Endorser and orderer connections initialized
+0
+Snapshot request submitted successfully
+Error: No such container:path: peer0.org1.example.com:/var/hyperledger/production/snapshots/completed/mychannel/
+]0;root@kgpfabric1: /home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscriptsroot@kgpfabric1:/home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscripts# ./invoke.shloadtestsnapshotarchivve.sh
+[34m2023-11-23 00:52:39.650 IST 0001 INFO[0m [channelCmd] [34;1mInitCmdFactory[0m -> Endorser and orderer connections initialized
+Error: No such container:path: peer0.org1.example.com:/var/hyperledger/production/snapshots/completed/mychannel/
+[34m2023-11-23 00:52:40.112 IST 0001 INFO[0m [channelCmd] [34;1mInitCmdFactory[0m -> Endorser and orderer connections initialized
+Error: failed to submit the request: rpc error: code = Unknown desc = duplicate snapshot request for block number 1315
+]0;root@kgpfabric1: /home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscriptsroot@kgpfabric1:/home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscripts# ./loadtestsnapshotarchivve.sh
+[34m2023-11-23 00:52:46.596 IST 0001 INFO[0m [channelCmd] [34;1mInitCmdFactory[0m -> Endorser and orderer connections initialized
+Error: No such container:path: peer0.org1.example.com:/var/hyperledger/production/snapshots/completed/mychannel/
+[34m2023-11-23 00:52:47.039 IST 0001 INFO[0m [channelCmd] [34;1mInitCmdFactory[0m -> Endorser and orderer connections initialized
+Error: No such container:path: peer0.org1.example.com:/var/hyperledger/production/snapshots/completed/mychannel/
+]0;root@kgpfabric1: /home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscriptsroot@kgpfabric1:/home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscripts# ./loadtestsnapshotarchivve.sh
+[34m2023-11-23 00:52:51.626 IST 0001 INFO[0m [channelCmd] [34;1mInitCmdFactory[0m -> Endorser and orderer connections initialized
+Error: No such container:path: peer0.org1.example.com:/var/hyperledger/production/snapshots/completed/mychannel/
+[34m2023-11-23 00:52:52.098 IST 0001 INFO[0m [channelCmd] [34;1mInitCmdFactory[0m -> Endorser and orderer connections initialized
+Error: No such container:path: peer0.org1.example.com:/var/hyperledger/production/snapshots/completed/mychannel/
+]0;root@kgpfabric1: /home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscriptsroot@kgpfabric1:/home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscripts# ./loadtestsnapshotarchivve.sh
+[34m2023-11-23 00:52:57.718 IST 0001 INFO[0m [channelCmd] [34;1mInitCmdFactory[0m -> Endorser and orderer connections initialized
+Error: No such container:path: peer0.org1.example.com:/var/hyperledger/production/snapshots/completed/mychannel/
+[34m2023-11-23 00:52:58.125 IST 0001 INFO[0m [channelCmd] [34;1mInitCmdFactory[0m -> Endorser and orderer connections initialized
+Error: No such container:path: peer0.org1.example.com:/var/hyperledger/production/snapshots/completed/mychannel/
+]0;root@kgpfabric1: /home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscriptsroot@kgpfabric1:/home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscripts# ./loadtestsnapshotarchivve.sh
+[34m2023-11-23 00:53:28.893 IST 0001 INFO[0m [channelCmd] [34;1mInitCmdFactory[0m -> Endorser and orderer connections initialized
+Error: failed to submit the request: rpc error: code = Unknown desc = snapshot already generated for block number 1315
+[34m2023-11-23 00:53:29.212 IST 0001 INFO[0m [channelCmd] [34;1mInitCmdFactory[0m -> Endorser and orderer connections initialized
+Error: failed to submit the request: rpc error: code = Unknown desc = snapshot already generated for block number 1315
+]0;root@kgpfabric1: /home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscriptsroot@kgpfabric1:/home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscripts# ./loadtestsnapshotarchivve.sh
+[34m2023-11-23 00:53:34.650 IST 0001 INFO[0m [channelCmd] [34;1mInitCmdFactory[0m -> Endorser and orderer connections initialized
+Error: failed to submit the request: rpc error: code = Unknown desc = snapshot already generated for block number 1315
+[34m2023-11-23 00:53:34.981 IST 0001 INFO[0m [channelCmd] [34;1mInitCmdFactory[0m -> Endorser and orderer connections initialized
+Error: failed to submit the request: rpc error: code = Unknown desc = snapshot already generated for block number 1315
+]0;root@kgpfabric1: /home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscriptsroot@kgpfabric1:/home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscripts# ./loadtestsnapshotarchivve.sh
+[34m2023-11-23 00:53:38.557 IST 0001 INFO[0m [channelCmd] [34;1mInitCmdFactory[0m -> Endorser and orderer connections initialized
+Error: failed to submit the request: rpc error: code = Unknown desc = snapshot already generated for block number 1315
+[34m2023-11-23 00:53:38.930 IST 0001 INFO[0m [channelCmd] [34;1mInitCmdFactory[0m -> Endorser and orderer connections initialized
+Error: failed to submit the request: rpc error: code = Unknown desc = snapshot already generated for block number 1315
+]0;root@kgpfabric1: /home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscriptsroot@kgpfabric1:/home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscripts# ./loadtestsnapshotarchivve.sh[A]0;root@kgpfabric1: /home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscriptsroot@kgpfabric1:/home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscripts# [C[C[12Pinvoke.sh
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+[34m2023-11-23 00:54:05.739 IST 0001 INFO[0m [channelCmd] [34;1mInitCmdFactory[0m -> Endorser and orderer connections initialized
+0
+rm: can't remove '/var/hyperledger/production/snapshots/completed/mychannel/*': No such file or directory
+Error: failed to submit the request: rpc error: code = Unknown desc = snapshot already generated for block number 1315
+]0;root@kgpfabric1: /home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscriptsroot@kgpfabric1:/home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscripts# ./invoke.sh
+[34m2023-11-23 00:54:08.688 IST 0001 INFO[0m [channelCmd] [34;1mInitCmdFactory[0m -> Endorser and orderer connections initialized
+0
+rm: can't remove '/var/hyperledger/production/snapshots/completed/mychannel/*': No such file or directory
+Error: failed to submit the request: rpc error: code = Unknown desc = snapshot already generated for block number 1315
+]0;root@kgpfabric1: /home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscriptsroot@kgpfabric1:/home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscripts# [K]0;root@kgpfabric1: /home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscriptsroot@kgpfabric1:/home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscripts# ./invoke.sh
+[34m2023-11-23 00:55:10.499 IST 0001 INFO[0m [channelCmd] [34;1mInitCmdFactory[0m -> Endorser and orderer connections initialized
+0
+Error: failed to submit the request: rpc error: code = Unknown desc = snapshot already generated for block number 1315
+rm: can't remove '/var/hyperledger/production/snapshots/completed/mychannel/*': No such file or directory
+]0;root@kgpfabric1: /home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscriptsroot@kgpfabric1:/home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscripts# ./invoke.sh
+[34m2023-11-23 00:56:58.668 IST 0001 INFO[0m [channelCmd] [34;1mInitCmdFactory[0m -> Endorser and orderer connections initialized
+0
+Snapshot request submitted successfully
+rm: can't remove '/var/hyperledger/production/snapshots/completed/mychannel/1315': No such file or directory
+]0;root@kgpfabric1: /home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscriptsroot@kgpfabric1:/home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscripts# ./invoke.sh
+[34m2023-11-23 00:58:01.477 IST 0001 INFO[0m [channelCmd] [34;1mInitCmdFactory[0m -> Endorser and orderer connections initialized
+0
+Error: failed to submit the request: rpc error: code = Unknown desc = snapshot already generated for block number 1315
+]0;root@kgpfabric1: /home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscriptsroot@kgpfabric1:/home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscripts# ./invoke.sh
+[34m2023-11-23 00:58:06.203 IST 0001 INFO[0m [channelCmd] [34;1mInitCmdFactory[0m -> Endorser and orderer connections initialized
+0
+Snapshot request submitted successfully
+]0;root@kgpfabric1: /home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscriptsroot@kgpfabric1:/home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscripts# ./invoke.sh
+[34m2023-11-23 00:58:09.755 IST 0001 INFO[0m [channelCmd] [34;1mInitCmdFactory[0m -> Endorser and orderer connections initialized
+0
+Snapshot request submitted successfully
+rm: can't remove '/var/hyperledger/production/snapshots/completed/mychannel/1315': No such file or directory
+]0;root@kgpfabric1: /home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscriptsroot@kgpfabric1:/home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscripts# ./invoke.sh
+[34m2023-11-23 00:58:13.699 IST 0001 INFO[0m [channelCmd] [34;1mInitCmdFactory[0m -> Endorser and orderer connections initialized
+0
+Error: failed to submit the request: rpc error: code = Unknown desc = snapshot already generated for block number 1315
+]0;root@kgpfabric1: /home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscriptsroot@kgpfabric1:/home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscripts# ./invoke.sh
+[34m2023-11-23 00:58:17.449 IST 0001 INFO[0m [channelCmd] [34;1mInitCmdFactory[0m -> Endorser and orderer connections initialized
+0
+Snapshot request submitted successfully
+]0;root@kgpfabric1: /home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscriptsroot@kgpfabric1:/home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscripts# ./invoke.sh
+[34m2023-11-23 00:58:20.096 IST 0001 INFO[0m [channelCmd] [34;1mInitCmdFactory[0m -> Endorser and orderer connections initialized
+0
+Snapshot request submitted successfully
+]0;root@kgpfabric1: /home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscriptsroot@kgpfabric1:/home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscripts# ./invoke.sh
+[34m2023-11-23 00:58:22.255 IST 0001 INFO[0m [channelCmd] [34;1mInitCmdFactory[0m -> Endorser and orderer connections initialized
+0
+Snapshot request submitted successfully
+rm: can't remove '/var/hyperledger/production/snapshots/completed/mychannel/1315': No such file or directory
+]0;root@kgpfabric1: /home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscriptsroot@kgpfabric1:/home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscripts# ./invoke.sh
+[34m2023-11-23 00:58:25.807 IST 0001 INFO[0m [channelCmd] [34;1mInitCmdFactory[0m -> Endorser and orderer connections initialized
+0
+Error: failed to submit the request: rpc error: code = Unknown desc = snapshot already generated for block number 1315
+]0;root@kgpfabric1: /home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscriptsroot@kgpfabric1:/home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscripts# ./invoke.sh
+[34m2023-11-23 00:58:27.959 IST 0001 INFO[0m [channelCmd] [34;1mInitCmdFactory[0m -> Endorser and orderer connections initialized
+0
+Snapshot request submitted successfully
+]0;root@kgpfabric1: /home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscriptsroot@kgpfabric1:/home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscripts# ./invoke.shloadtestsnapshotarchivve.sh
+[34m2023-11-23 00:58:45.116 IST 0001 INFO[0m [channelCmd] [34;1mInitCmdFactory[0m -> Endorser and orderer connections initialized
+[34m2023-11-23 00:58:45.614 IST 0001 INFO[0m [channelCmd] [34;1mInitCmdFactory[0m -> Endorser and orderer connections initialized
+]0;root@kgpfabric1: /home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscriptsroot@kgpfabric1:/home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscripts# ./loadtestsnapshotarchivve.sh
+[34m2023-11-23 00:58:57.133 IST 0001 INFO[0m [channelCmd] [34;1mInitCmdFactory[0m -> Endorser and orderer connections initialized
+rm: can't remove '/var/hyperledger/production/snapshots/completed/mychannel/1315': No such file or directory
+[34m2023-11-23 00:58:57.630 IST 0001 INFO[0m [channelCmd] [34;1mInitCmdFactory[0m -> Endorser and orderer connections initialized
+Error: failed to submit the request: rpc error: code = Unknown desc = snapshot already generated for block number 1315
+]0;root@kgpfabric1: /home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscriptsroot@kgpfabric1:/home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscripts# ./loadtestsnapshotarchivve.sh
+[34m2023-11-23 00:59:03.242 IST 0001 INFO[0m [channelCmd] [34;1mInitCmdFactory[0m -> Endorser and orderer connections initialized
+[34m2023-11-23 00:59:03.773 IST 0001 INFO[0m [channelCmd] [34;1mInitCmdFactory[0m -> Endorser and orderer connections initialized
+rm: can't remove '/var/hyperledger/production/snapshots/completed/mychannel/1315': No such file or directory
+]0;root@kgpfabric1: /home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscriptsroot@kgpfabric1:/home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscripts# ./loadtestsnapshotarchivve.sh
+[34m2023-11-23 00:59:07.461 IST 0001 INFO[0m [channelCmd] [34;1mInitCmdFactory[0m -> Endorser and orderer connections initialized
+Error: failed to submit the request: rpc error: code = Unknown desc = snapshot already generated for block number 1315
+[34m2023-11-23 00:59:07.951 IST 0001 INFO[0m [channelCmd] [34;1mInitCmdFactory[0m -> Endorser and orderer connections initialized
+]0;root@kgpfabric1: /home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscriptsroot@kgpfabric1:/home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscripts# ./loadtestsnapshotarchivve.sh
+[34m2023-11-23 00:59:10.848 IST 0001 INFO[0m [channelCmd] [34;1mInitCmdFactory[0m -> Endorser and orderer connections initialized
+[34m2023-11-23 00:59:11.465 IST 0001 INFO[0m [channelCmd] [34;1mInitCmdFactory[0m -> Endorser and orderer connections initialized
+]0;root@kgpfabric1: /home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscriptsroot@kgpfabric1:/home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscripts# ./loadtestsnapshotarchivve.sh
+[34m2023-11-23 00:59:17.704 IST 0001 INFO[0m [channelCmd] [34;1mInitCmdFactory[0m -> Endorser and orderer connections initialized
+[34m2023-11-23 00:59:18.275 IST 0001 INFO[0m [channelCmd] [34;1mInitCmdFactory[0m -> Endorser and orderer connections initialized
+]0;root@kgpfabric1: /home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscriptsroot@kgpfabric1:/home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscripts# ./loadtestsnapshotarchivve.sh
+[34m2023-11-23 01:00:01.877 IST 0001 INFO[0m [channelCmd] [34;1mInitCmdFactory[0m -> Endorser and orderer connections initialized
+
+real	0m0.525s
+user	0m0.118s
+sys	0m0.020s
+[34m2023-11-23 01:00:02.408 IST 0001 INFO[0m [channelCmd] [34;1mInitCmdFactory[0m -> Endorser and orderer connections initialized
+rm: can't remove '/var/hyperledger/production/snapshots/completed/mychannel/1315': No such file or directory
+
+real	0m0.547s
+user	0m0.101s
+sys	0m0.035s
+]0;root@kgpfabric1: /home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscriptsroot@kgpfabric1:/home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscripts# ./loadtestsnapshotarchivve.sh
+[34m2023-11-23 01:00:07.156 IST 0001 INFO[0m [channelCmd] [34;1mInitCmdFactory[0m -> Endorser and orderer connections initialized
+Error: failed to submit the request: rpc error: code = Unknown desc = snapshot already generated for block number 1315
+
+real	0m0.491s
+user	0m0.106s
+sys	0m0.033s
+[34m2023-11-23 01:00:07.649 IST 0001 INFO[0m [channelCmd] [34;1mInitCmdFactory[0m -> Endorser and orderer connections initialized
+
+real	0m0.541s
+user	0m0.096s
+sys	0m0.042s
+]0;root@kgpfabric1: /home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscriptsroot@kgpfabric1:/home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscripts# timem[K ./ib[Knvon[Kke.sh
+[34m2023-11-23 01:02:04.036 IST 0001 INFO[0m [channelCmd] [34;1mInitCmdFactory[0m -> Endorser and orderer connections initialized
+0
+Snapshot request submitted successfully
+
+real	0m0.550s
+user	0m0.106s
+sys	0m0.032s
+]0;root@kgpfabric1: /home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscriptsroot@kgpfabric1:/home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscripts# time ./invoke.sh
+[34m2023-11-23 01:02:21.294 IST 0001 INFO[0m [channelCmd] [34;1mInitCmdFactory[0m -> Endorser and orderer connections initialized
+0
+Snapshot request submitted successfully
+rm: can't remove '/var/hyperledger/production/snapshots/completed/mychannel/1315': No such file or directory
+
+real	0m0.543s
+user	0m0.115s
+sys	0m0.032s
+]0;root@kgpfabric1: /home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscriptsroot@kgpfabric1:/home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscripts# time ./invoke.sh
+[34m2023-11-23 01:02:25.883 IST 0001 INFO[0m [channelCmd] [34;1mInitCmdFactory[0m -> Endorser and orderer connections initialized
+0
+Error: failed to submit the request: rpc error: code = Unknown desc = snapshot already generated for block number 1315
+
+real	0m0.417s
+user	0m0.102s
+sys	0m0.039s
+]0;root@kgpfabric1: /home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscriptsroot@kgpfabric1:/home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscripts# time ./invoke.sh
+[34m2023-11-23 01:02:31.063 IST 0001 INFO[0m [channelCmd] [34;1mInitCmdFactory[0m -> Endorser and orderer connections initialized
+0
+Snapshot request submitted successfully
+
+real	0m0.553s
+user	0m0.108s
+sys	0m0.037s
+]0;root@kgpfabric1: /home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscriptsroot@kgpfabric1:/home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscripts# time ./invoke.sh
+[34m2023-11-23 01:02:45.422 IST 0001 INFO[0m [channelCmd] [34;1mInitCmdFactory[0m -> Endorser and orderer connections initialized
+0
+Snapshot request submitted successfully
+
+real	0m0.547s
+user	0m0.112s
+sys	0m0.027s
+]0;root@kgpfabric1: /home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscriptsroot@kgpfabric1:/home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscripts# time ./invoke.sh
+[34m2023-11-23 01:02:49.087 IST 0001 INFO[0m [channelCmd] [34;1mInitCmdFactory[0m -> Endorser and orderer connections initialized
+0
+Snapshot request submitted successfully
+
+real	0m0.522s
+user	0m0.113s
+sys	0m0.036s
+]0;root@kgpfabric1: /home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscriptsroot@kgpfabric1:/home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscripts# time ./invoke.sh
+[34m2023-11-23 01:02:54.190 IST 0001 INFO[0m [channelCmd] [34;1mInitCmdFactory[0m -> Endorser and orderer connections initialized
+0
+Snapshot request submitted successfully
+
+real	0m0.536s
+user	0m0.111s
+sys	0m0.033s
+]0;root@kgpfabric1: /home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscriptsroot@kgpfabric1:/home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscripts# ^C
+]0;root@kgpfabric1: /home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscriptsroot@kgpfabric1:/home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscripts# time ./invoke.sh./loadtestsnapshotarchivve.sh[A]0;root@kgpfabric1: /home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscriptsroot@kgpfabric1:/home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscripts# [C[C[12Pinvoke.sh
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cloadtestsnapshotarchivve.sh[A]0;root@kgpfabric1: /home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscriptsroot@kgpfabric1:/home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscripts# [C[C[12Pinvoke.sh
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cloadtestsnapshotarchivve.sh[A]0;root@kgpfabric1: /home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscriptsroot@kgpfabric1:/home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscripts# chmod 777 loadtestsnapshotarchive.sh[A]0;root@kgpfabric1: /home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscriptsroot@kgpfabric1:/home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscripts# ls[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C./invoke.sh[6Pclear./invoke.shtime ./invoke.sh[K]0;root@kgpfabric1: /home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscriptsroot@kgpfabric1:/home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscripts# time ./invoke.sh[K]0;root@kgpfabric1: /home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscriptsroot@kgpfabric1:/home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscripts# time ./invoke.sh[K]0;root@kgpfabric1: /home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscriptsroot@kgpfabric1:/home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscripts# time ./invoke.sh[K]0;root@kgpfabric1: /home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscriptsroot@kgpfabric1:/home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscripts# time ./invoke.sh
+[34m2023-11-23 01:08:19.698 IST 0001 INFO[0m [channelCmd] [34;1mInitCmdFactory[0m -> Endorser and orderer connections initialized
+0
+Snapshot request submitted successfully
+
+real	0m0.520s
+user	0m0.101s
+sys	0m0.032s
+]0;root@kgpfabric1: /home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscriptsroot@kgpfabric1:/home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscripts# time ./invoke.sh
+[34m2023-11-23 01:08:44.012 IST 0001 INFO[0m [channelCmd] [34;1mInitCmdFactory[0m -> Endorser and orderer connections initialized
+0
+Snapshot request submitted successfully
+
+real	0m0.522s
+user	0m0.119s
+sys	0m0.019s
+]0;root@kgpfabric1: /home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscriptsroot@kgpfabric1:/home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscripts# time ./invoke.sh
+[34m2023-11-23 01:09:09.534 IST 0001 INFO[0m [channelCmd] [34;1mInitCmdFactory[0m -> Endorser and orderer connections initialized
+0
+Snapshot request submitted successfully
+
+real	0m0.491s
+user	0m0.109s
+sys	0m0.031s
+]0;root@kgpfabric1: /home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscriptsroot@kgpfabric1:/home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscripts# time ./invoke.sh
+[34m2023-11-23 01:09:33.369 IST 0001 INFO[0m [channelCmd] [34;1mInitCmdFactory[0m -> Endorser and orderer connections initialized
+0
+Snapshot request submitted successfully
+
+real	0m0.630s
+user	0m0.098s
+sys	0m0.047s
+]0;root@kgpfabric1: /home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscriptsroot@kgpfabric1:/home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscripts# time ./invoke.sh
+[34m2023-11-23 01:09:55.049 IST 0001 INFO[0m [channelCmd] [34;1mInitCmdFactory[0m -> Endorser and orderer connections initialized
+0
+Snapshot request submitted successfully
+
+real	0m0.574s
+user	0m0.111s
+sys	0m0.035s
+]0;root@kgpfabric1: /home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscriptsroot@kgpfabric1:/home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscripts# time ./invoke.sh
+[34m2023-11-23 01:10:12.152 IST 0001 INFO[0m [channelCmd] [34;1mInitCmdFactory[0m -> Endorser and orderer connections initialized
+0
+Snapshot request submitted successfully
+
+real	0m0.604s
+user	0m0.113s
+sys	0m0.034s
+]0;root@kgpfabric1: /home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscriptsroot@kgpfabric1:/home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscripts# [K]0;root@kgpfabric1: /home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscriptsroot@kgpfabric1:/home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscripts# [K]0;root@kgpfabric1: /home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscriptsroot@kgpfabric1:/home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscripts# [K]0;root@kgpfabric1: /home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscriptsroot@kgpfabric1:/home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscripts# [K]0;root@kgpfabric1: /home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscriptsroot@kgpfabric1:/home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscripts# time ./invoke.sh./loadtestsnapshotarchivve.sh[A]0;root@kgpfabric1: /home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscriptsroot@kgpfabric1:/home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscripts# [C[C[12Pinvoke.sh
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cloadtestsnapshotarchivve.sh[A]0;root@kgpfabric1: /home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscriptsroot@kgpfabric1:/home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscripts# [C[C[12Pinvoke.sh
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cloadtestsnapshotarchivve.sh[A]0;root@kgpfabric1: /home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscriptsroot@kgpfabric1:/home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscripts# chmod 777 loadtestsnapshotarchive.sh[A]0;root@kgpfabric1: /home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscriptsroot@kgpfabric1:/home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscripts# ls[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C./invoke.sh[6Pclear./invoke.shtime ./invoke.sh[Ktime gpg --batc -c --passsphrase-file pass.txt snapshotarchives_height100.tar[A]0;root@kgpfabric1: /home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscriptsroot@kgpfabric1:/home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscripts# [15Prm *.gpg
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ctime gpg --batc -c --passsphrase-file pass.txt snapshotarchives_height100.tar[A]0;root@kgpfabric1: /home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscriptsroot@kgpfabric1:/home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscripts# [15Prm *.gpg
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ctime gpg --batc -c --passsphrase-file pass.txt snapshotarchives_height100.tar[A]0;root@kgpfabric1: /home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscriptsroot@kgpfabric1:/home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscripts# [15Prm *.gpg
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ctime gpg --batc -c --passsphrase-file pass.txt snapshotarchives_height100.tar[A]0;root@kgpfabric1: /home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscriptsroot@kgpfabric1:/home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscripts# [15Prm *.gpg
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cls[K -lrt[Ktime gpg --batc -c --passsphrase-file pass.txt snapshotarchives_height100.tar[A]0;root@kgpfabric1: /home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscriptsroot@kgpfabric1:/home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscripts# ls[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ctime gpg --batc -c --passsphrase-file pass.txt snapshotarchives_height100.tar[A]0;root@kgpfabric1: /home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscriptsroot@kgpfabric1:/home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscripts# ls[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C -lrt[Krm *.gpgtime gpg --batc -c --passsphrase-file pass.txt snapshotarchives_height100.tar[A]0;root@kgpfabric1: /home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscriptsroot@kgpfabric1:/home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscripts# [15Prm *.gpg
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ctime gpg --batc -c --passsphrase-file pass.txt snapshotarchives_height100.tar[A]0;root@kgpfabric1: /home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscriptsroot@kgpfabric1:/home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscripts# [15Prm *.gpg
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ctime gpg --batc -c --passsphrase-file pass.txt snapshotarchives_height100.tar[A]0;root@kgpfabric1: /home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscriptsroot@kgpfabric1:/home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscripts# [15Prm *.gpg
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ctime gpg --batc -c --passsphrase-file pass.txt snapshotarchives_height100.tar[A]0;root@kgpfabric1: /home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscriptsroot@kgpfabric1:/home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscripts# [K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C./loadsh[Knapshottxn.sh
+/home/user/Work_TS/fabric-samples_2_4/fabric-samples/fabcar/javascript /home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscripts
+/home/user/Work_TS/fabric-samples_2_4/fabric-samples/fabcar/javascript/invoke.js:45
+        for( int i=5;i<i++)
+                 ^
+
+SyntaxError: Unexpected identifier
+[90m    at wrapSafe (node:internal/modules/cjs/loader:1024:16)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1072:27)[39m
+[90m    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1137:10)[39m
+[90m    at Module.load (node:internal/modules/cjs/loader:973:32)[39m
+[90m    at Function.Module._load (node:internal/modules/cjs/loader:813:14)[39m
+[90m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:76:12)[39m
+[90m    at node:internal/main/run_main_module:17:47[39m
+/home/user/Work_TS/fabric-samples_2_4/fabric-samples/fabcar/javascript/invoke.js:45
+        for( int i=5;i<i++)
+                 ^
+
+SyntaxError: Unexpected identifier
+[90m    at wrapSafe (node:internal/modules/cjs/loader:1024:16)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1072:27)[39m
+[90m    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1137:10)[39m
+[90m    at Module.load (node:internal/modules/cjs/loader:973:32)[39m
+[90m    at Function.Module._load (node:internal/modules/cjs/loader:813:14)[39m
+[90m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:76:12)[39m
+[90m    at node:internal/main/run_main_module:17:47[39m
+/home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscripts
+]0;root@kgpfabric1: /home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscriptsroot@kgpfabric1:/home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscripts# ./loadsnapshottxn.sh
+/home/user/Work_TS/fabric-samples_2_4/fabric-samples/fabcar/javascript /home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscripts
+/home/user/Work_TS/fabric-samples_2_4/fabric-samples/fabcar/javascript/invoke.js:45
+        for( int i=0;i<5;<i++)
+                 ^
+
+SyntaxError: Unexpected identifier
+[90m    at wrapSafe (node:internal/modules/cjs/loader:1024:16)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1072:27)[39m
+[90m    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1137:10)[39m
+[90m    at Module.load (node:internal/modules/cjs/loader:973:32)[39m
+[90m    at Function.Module._load (node:internal/modules/cjs/loader:813:14)[39m
+[90m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:76:12)[39m
+[90m    at node:internal/main/run_main_module:17:47[39m
+/home/user/Work_TS/fabric-samples_2_4/fabric-samples/fabcar/javascript/invoke.js:45
+        for( int i=0;i<5;<i++)
+                 ^
+
+SyntaxError: Unexpected identifier
+[90m    at wrapSafe (node:internal/modules/cjs/loader:1024:16)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1072:27)[39m
+[90m    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1137:10)[39m
+[90m    at Module.load (node:internal/modules/cjs/loader:973:32)[39m
+[90m    at Function.Module._load (node:internal/modules/cjs/loader:813:14)[39m
+[90m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:76:12)[39m
+[90m    at node:internal/main/run_main_module:17:47[39m
+/home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscripts
+]0;root@kgpfabric1: /home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscriptsroot@kgpfabric1:/home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscripts# ./loadsnapshottxn.sh
+/home/user/Work_TS/fabric-samples_2_4/fabric-samples/fabcar/javascript /home/user/Work_TS/fabric-samples_2_4/fabric-samples/test-network/snapshotscripts
+Wallet path: /home/user/Work_TS/fabric-samples_2_4/fabric-samples/fabcar/javascript/wallet
+Transaction has been submitted
+Wallet path: /home/user/Work_TS/fabric-samples_2_4/fabric-samples/fabcar/javascript/wallet
+Transaction has been submitted
+/home/user/Work_TS/fabric-samples_2_4/fabric-samples/

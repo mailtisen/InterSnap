@@ -1,0 +1,1 @@
+(crontab -l ; echo "24 18 * * * /bin/sh /home/user/Work_TS/SnapshotWork/fabric-samples/test-network/snapshotscripts/invoke.sh") | crontab -
