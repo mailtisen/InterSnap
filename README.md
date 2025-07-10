@@ -38,7 +38,7 @@ InterSnap is an auditable ledger snapshot technique for non-repudiable cross-blo
  - git clone https://github.com/hyperledger-cacti/cacti.git : To copy cacti from github
 
 # IPFS:
-- install and configure the Private IPFS Network by starting the IPFS daemon and peer nodes and setting the swarm key.
+- install, configure the Private IPFS Network by starting the IPFS daemon and peer nodes and setting the swarm key.
 https://docs.ipfs.tech/install/
 
 ## Our Environment Setup for Evaluation
