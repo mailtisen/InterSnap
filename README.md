@@ -3,7 +3,7 @@ InterSnap is an auditable ledger snapshot technique for non-repudiable cross-blo
 
 
 
-# Core Contracts and Related Functionalities
+# Core Functionalities
 
 | Functions| Description | Folder Path |
 |---------------------|-------------|------------|
