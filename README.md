@@ -1,19 +1,20 @@
 # InterSnap
 InterSnap is an auditable ledger snapshot technique for non-repudiable cross-blockchain communication
 
-<!-- 
+
 
 # Core Contracts and Related Functionalities
 
 | Functions| Description | Folder Path |
 |---------------------|-------------|------------|
-| **InvokeSnapshot**  | The underlying module is used to create snapshot |`/home/kgpfabric1/Work_TS/Work1_Snapshot/InterSnap/src/invokesnapshot` |
-| **SubmitAccessRequest**   | Handles access request creation, and saving of request details. | `src/chaincode/access_contol/SubmitAccessRequest.go` |
-| **ManageInteropRequest**   | Extracts and Fetches access request attributes from the interoperation payload| `src/chaincode/manage_interop_request/manage_interop_request_chaincode.go` |
-| **CheckAccessResponder**   | Checks access validation at destination | `src/chaincode/check_access_policy_dest/CheckaccessResponder.go` |
-| **SaveRequestPDC**   | Saving requestlist into private PDC store. | `src/chaincode/pdc_chaincode/saveRequestPDC.go` |
-| **VerifySignature** | Enables verification of ECDSA signatures for different entities | `app/handle-signature-app/server.js` |
- -->
+| **InvokeSnapshot**  | The underlying module is used to create snapshot | `src/invoke snapshot/invoke.sh` |
+| **GetdiscoveryMaxPeerHeight**   | Fetches the peer with maximum ledger height | `src/get max height/getdiscoveryMaxPeerHeight.sh` |
+| **ScheduleSnapshot**   | Sheduled snapshot job for snapshot archive generation| `src/snscripts/scheduleSnapshot.sh` |
+| **CompressArchiveToTar**   | Compresses historical snapshot archives| `src/snscripts/compressArchive.sh` |
+| **EncryptSnapshotArchives**   | Encrypts the snapshot archives | `src/snscripts/encryptSnapshotArch.sh` |
+| **UploadArchiveToIPFS**   | Add encrypted snapshot archives to IPFS| `src/snscripts/uploadipfs.sh` |
+| **PeertoPeerSnapshotCopy** | Copies peer snapshot | `src/chaincode/copySnapshotFromPeer.go` |
+
 
 
 ## Main Software Pre-requisites
