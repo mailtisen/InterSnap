@@ -13,7 +13,7 @@ InterSnap is an auditable ledger snapshot technique for non-repudiable cross-blo
 | **CompressArchiveToTar**   | Compresses historical snapshot archives| `src/snscripts/compressArchive.sh` |
 | **EncryptSnapshotArchives**   | Encrypts the snapshot archives | `src/snscripts/encryptSnapshotArch.sh` |
 | **UploadArchiveToIPFS**   | Add encrypted snapshot archives to IPFS| `src/snscripts/uploadipfs.sh` |
-| **PeertoPeerSnapshotCopy** | Copies peer snapshot | `src/chaincode/copySnapshotFromPeer.go` |
+| **PeerToPeerSnapshotCopy** | Copies peer snapshot | `src/chaincode/copySnapshotFromPeer.go` |
 
 
 

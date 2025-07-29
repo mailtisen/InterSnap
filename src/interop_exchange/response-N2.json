@@ -1,0 +1,6 @@
+{
+"refTxIdFromN1": "TXN001_N1_REQ",
+"txId": "TXN002_N2_RESP",
+"destinationNetwork": "N2",
+"testResponse": "success"
+}
