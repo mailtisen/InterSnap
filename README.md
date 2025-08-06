@@ -10,6 +10,7 @@ InterSnap is an auditable ledger snapshot technique for non-repudiable cross-blo
 | **InvokeSnapshot**  | The underlying module is used to create snapshot | `src/invoke snapshot/invoke.sh` |
 | **GetdiscoveryMaxPeerHeight**   | Fetches the peer with maximum ledger height | `src/get max height/getdiscoveryMaxPeerHeight.sh` |
 | **ScheduleSnapshot**   | Sheduled snapshot job for snapshot archive generation| `src/snscripts/scheduleSnapshot.sh` |
+| **Neded Based Snapshot Invoking Process**   | Need based sanpshot generation| `src/invoke snapshot/invoke.sh` |
 | **CompressArchiveToTar**   | Compresses historical snapshot archives| `src/snscripts/compressArchive.sh` |
 | **EncryptSnapshotArchives**   | Encrypts the snapshot archives | `src/snscripts/encryptSnapshotArch.sh` |
 | **UploadArchiveToIPFS**   | Add encrypted snapshot archives to IPFS| `src/snscripts/uploadipfs.sh` |
